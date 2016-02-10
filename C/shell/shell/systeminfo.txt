@@ -1,0 +1,15 @@
+ Volume in drive L is data
+ Volume Serial Number is 2E15-9909
+
+ Directory of L:\Students\2POL\code\C\shell\shell
+
+02/10/2016  05:30 PM    <DIR>          .
+02/10/2016  05:30 PM    <DIR>          ..
+02/10/2016  05:32 PM    <DIR>          Debug
+02/10/2016  05:32 PM               187 shell.cpp
+02/10/2016  05:27 PM             3,220 shell.vcxproj
+02/10/2016  05:27 PM               954 shell.vcxproj.filters
+02/10/2016  05:23 PM               143 shell.vcxproj.user
+02/10/2016  05:32 PM                 0 systeminfo.txt
+               5 File(s)          4,504 bytes
+               3 Dir(s)  68,498,743,296 bytes free
