@@ -1,5 +1,5 @@
 # POL
-Basic programming class 2
+Hyper Generation Class
 
 #Teacher
 Dr. Aung Win Htut
