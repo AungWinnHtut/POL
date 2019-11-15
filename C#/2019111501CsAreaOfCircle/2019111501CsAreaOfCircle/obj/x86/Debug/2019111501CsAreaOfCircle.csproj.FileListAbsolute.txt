@@ -1,0 +1,7 @@
+D:\c\C#\2019111501CsAreaOfCircle\2019111501CsAreaOfCircle\bin\Debug\2019111501CsAreaOfCircle.exe
+D:\c\C#\2019111501CsAreaOfCircle\2019111501CsAreaOfCircle\bin\Debug\2019111501CsAreaOfCircle.pdb
+D:\c\C#\2019111501CsAreaOfCircle\2019111501CsAreaOfCircle\obj\x86\Debug\_2019111501CsAreaOfCircle.Properties.Resources.resources
+D:\c\C#\2019111501CsAreaOfCircle\2019111501CsAreaOfCircle\obj\x86\Debug\2019111501CsAreaOfCircle.csproj.GenerateResource.Cache
+D:\c\C#\2019111501CsAreaOfCircle\2019111501CsAreaOfCircle\obj\x86\Debug\2019111501CsAreaOfCircle.exe
+D:\c\C#\2019111501CsAreaOfCircle\2019111501CsAreaOfCircle\obj\x86\Debug\2019111501CsAreaOfCircle.pdb
+D:\c\C#\2019111501CsAreaOfCircle\2019111501CsAreaOfCircle\obj\x86\Debug\_2019111501CsAreaOfCircle.frmArea.resources
