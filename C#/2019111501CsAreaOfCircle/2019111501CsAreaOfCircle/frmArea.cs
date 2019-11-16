@@ -20,6 +20,24 @@ namespace _2019111501CsAreaOfCircle
 
         private void btnEnable_Click(object sender, EventArgs e)
         {
+            if (picBox.Visible == true)
+            {
+                picBox.Visible = false;
+                btnEnable.Text = "Enable";
+            }
+            else
+            {
+                picBox.Visible = true;
+                btnEnable.Text = "Disable";
+            }
+            
+        }
+
+       
+
+        private void frmArea_Load(object sender, EventArgs e)
+        {
+            btnEnable.Text = "Disable";
 
         }
     }
