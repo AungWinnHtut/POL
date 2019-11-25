@@ -1,0 +1,11 @@
+D:\c\C#\SnakeGame\bin\Debug\netcoreapp3.0\SnakeGame.exe
+D:\c\C#\SnakeGame\bin\Debug\netcoreapp3.0\SnakeGame.deps.json
+D:\c\C#\SnakeGame\bin\Debug\netcoreapp3.0\SnakeGame.runtimeconfig.json
+D:\c\C#\SnakeGame\bin\Debug\netcoreapp3.0\SnakeGame.runtimeconfig.dev.json
+D:\c\C#\SnakeGame\bin\Debug\netcoreapp3.0\SnakeGame.dll
+D:\c\C#\SnakeGame\bin\Debug\netcoreapp3.0\SnakeGame.pdb
+D:\c\C#\SnakeGame\obj\Debug\netcoreapp3.0\SnakeGame.csprojAssemblyReference.cache
+D:\c\C#\SnakeGame\obj\Debug\netcoreapp3.0\SnakeGame.AssemblyInfoInputs.cache
+D:\c\C#\SnakeGame\obj\Debug\netcoreapp3.0\SnakeGame.AssemblyInfo.cs
+D:\c\C#\SnakeGame\obj\Debug\netcoreapp3.0\SnakeGame.dll
+D:\c\C#\SnakeGame\obj\Debug\netcoreapp3.0\SnakeGame.pdb

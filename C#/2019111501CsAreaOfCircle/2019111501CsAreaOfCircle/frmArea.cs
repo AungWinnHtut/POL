@@ -40,5 +40,21 @@ namespace _2019111501CsAreaOfCircle
             btnEnable.Text = "Disable";
 
         }
+
+        public void funHello(String msg,String title)
+        {
+            MessageBox.Show(msg, title);
+        }
+
+        private void picBox_Click(object sender, EventArgs e)
+        {
+            funHello("You clicked picturebox", "GH");
+        }
+
+        private void frmArea_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
+
     }
 }

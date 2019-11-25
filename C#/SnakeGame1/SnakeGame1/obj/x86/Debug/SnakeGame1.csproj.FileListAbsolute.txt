@@ -1,0 +1,8 @@
+D:\c\C#\SnakeGame1\SnakeGame1\bin\Debug\SnakeGame1.exe
+D:\c\C#\SnakeGame1\SnakeGame1\bin\Debug\SnakeGame1.pdb
+D:\c\C#\SnakeGame1\SnakeGame1\obj\x86\Debug\SnakeGame1.frmSnake.resources
+D:\c\C#\SnakeGame1\SnakeGame1\obj\x86\Debug\SnakeGame1.Properties.Resources.resources
+D:\c\C#\SnakeGame1\SnakeGame1\obj\x86\Debug\SnakeGame1.csproj.GenerateResource.Cache
+D:\c\C#\SnakeGame1\SnakeGame1\obj\x86\Debug\SnakeGame1.exe
+D:\c\C#\SnakeGame1\SnakeGame1\obj\x86\Debug\SnakeGame1.pdb
+D:\c\C#\SnakeGame1\SnakeGame1\obj\x86\Debug\SnakeGame1.Form1.resources

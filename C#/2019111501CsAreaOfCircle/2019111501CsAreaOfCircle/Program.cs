@@ -15,7 +15,7 @@ namespace _2019111501CsAreaOfCircle
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmArea());
+            Application.Run(new frmLogin());
         }
     }
 }

@@ -53,6 +53,7 @@
             this.picBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picBox.TabIndex = 3;
             this.picBox.TabStop = false;
+            this.picBox.Click += new System.EventHandler(this.picBox_Click);
             // 
             // frmArea
             // 
@@ -64,6 +65,7 @@
             this.Controls.Add(this.btnEnable);
             this.Name = "frmArea";
             this.Text = "Green Hackers - Area of Circle";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmArea_FormClosing);
             this.Load += new System.EventHandler(this.frmArea_Load);
             ((System.ComponentModel.ISupportInitialize)(this.picBox)).EndInit();
             this.ResumeLayout(false);

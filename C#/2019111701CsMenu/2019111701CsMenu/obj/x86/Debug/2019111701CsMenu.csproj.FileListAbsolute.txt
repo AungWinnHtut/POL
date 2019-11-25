@@ -1,0 +1,8 @@
+D:\c\C#\2019111701CsMenu\2019111701CsMenu\bin\Debug\2019111701CsMenu.exe
+D:\c\C#\2019111701CsMenu\2019111701CsMenu\bin\Debug\2019111701CsMenu.pdb
+D:\c\C#\2019111701CsMenu\2019111701CsMenu\obj\x86\Debug\_2019111701CsMenu.Properties.Resources.resources
+D:\c\C#\2019111701CsMenu\2019111701CsMenu\obj\x86\Debug\2019111701CsMenu.csproj.GenerateResource.Cache
+D:\c\C#\2019111701CsMenu\2019111701CsMenu\obj\x86\Debug\2019111701CsMenu.exe
+D:\c\C#\2019111701CsMenu\2019111701CsMenu\obj\x86\Debug\2019111701CsMenu.pdb
+D:\c\C#\2019111701CsMenu\2019111701CsMenu\obj\x86\Debug\_2019111701CsMenu.frmMenu.resources
+D:\c\C#\2019111701CsMenu\2019111701CsMenu\obj\x86\Debug\_2019111701CsMenu.frmArea.resources
