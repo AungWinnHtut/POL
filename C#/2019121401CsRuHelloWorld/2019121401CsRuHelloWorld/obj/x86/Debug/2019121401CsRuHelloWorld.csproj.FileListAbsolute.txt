@@ -1,0 +1,7 @@
+D:\c\C#\2019121401CsRuHelloWorld\2019121401CsRuHelloWorld\bin\Debug\2019121401CsRuHelloWorld.exe
+D:\c\C#\2019121401CsRuHelloWorld\2019121401CsRuHelloWorld\bin\Debug\2019121401CsRuHelloWorld.pdb
+D:\c\C#\2019121401CsRuHelloWorld\2019121401CsRuHelloWorld\obj\x86\Debug\_2019121401CsRuHelloWorld.frmHello.resources
+D:\c\C#\2019121401CsRuHelloWorld\2019121401CsRuHelloWorld\obj\x86\Debug\_2019121401CsRuHelloWorld.Properties.Resources.resources
+D:\c\C#\2019121401CsRuHelloWorld\2019121401CsRuHelloWorld\obj\x86\Debug\2019121401CsRuHelloWorld.csproj.GenerateResource.Cache
+D:\c\C#\2019121401CsRuHelloWorld\2019121401CsRuHelloWorld\obj\x86\Debug\2019121401CsRuHelloWorld.exe
+D:\c\C#\2019121401CsRuHelloWorld\2019121401CsRuHelloWorld\obj\x86\Debug\2019121401CsRuHelloWorld.pdb
