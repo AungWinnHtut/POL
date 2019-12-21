@@ -1,0 +1,23 @@
+﻿Build started 12/21/2019 11:59:34 AM.
+     1>Project "D:\c\C\2019122001CppStringManipulation\2019122001CppStringManipulation\2019122001CppStringManipulation.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\2019122001CppStringManipulation.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stringmanipulation.cpp
+         stringmanipulation.cpp
+     1>d:\c\c\2019122001cppstringmanipulation\2019122001cppstringmanipulation\stringmanipulation.cpp(18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\c\C\2019122001CppStringManipulation\Debug\2019122001CppStringManipulation.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\2019122001CppStringManipulation.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\c\C\2019122001CppStringManipulation\Debug\2019122001CppStringManipulation.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\c\C\2019122001CppStringManipulation\Debug\2019122001CppStringManipulation.lib" /MACHINE:X86 Debug\stringmanipulation.obj
+         LINK : D:\c\C\2019122001CppStringManipulation\Debug\2019122001CppStringManipulation.exe not found or not built by the last incremental link; performing full link
+         2019122001CppStringManipulation.vcxproj -> D:\c\C\2019122001CppStringManipulation\Debug\2019122001CppStringManipulation.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\c\C\2019122001CppStringManipulation\Debug\2019122001CppStringManipulation.exe;#1" /manifest Debug\2019122001CppStringManipulation.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\2019122001CppStringManipulation.unsuccessfulbuild".
+         Touching "Debug\2019122001CppStringManipulation.lastbuildstate".
+     1>Done Building Project "D:\c\C\2019122001CppStringManipulation\2019122001CppStringManipulation\2019122001CppStringManipulation.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.31

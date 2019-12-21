@@ -1,0 +1,9 @@
+D:\c\C\CsMySqlTest\CsMySqlTest\bin\Debug\CsMySqlTest.exe
+D:\c\C\CsMySqlTest\CsMySqlTest\bin\Debug\CsMySqlTest.pdb
+D:\c\C\CsMySqlTest\CsMySqlTest\obj\x86\Debug\CsMySqlTest.frmDbase.resources
+D:\c\C\CsMySqlTest\CsMySqlTest\obj\x86\Debug\CsMySqlTest.Properties.Resources.resources
+D:\c\C\CsMySqlTest\CsMySqlTest\obj\x86\Debug\CsMySqlTest.csproj.GenerateResource.Cache
+D:\c\C\CsMySqlTest\CsMySqlTest\obj\x86\Debug\CsMySqlTest.exe
+D:\c\C\CsMySqlTest\CsMySqlTest\obj\x86\Debug\CsMySqlTest.pdb
+D:\c\C\CsMySqlTest\CsMySqlTest\obj\x86\Debug\CsMySqlTest.csprojResolveAssemblyReference.cache
+D:\c\C\CsMySqlTest\CsMySqlTest\bin\Debug\MySql.Data.DLL
