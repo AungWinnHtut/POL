@@ -53,6 +53,18 @@
     <Compile Include="frmLogin.Designer.cs">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmSearchByTitle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSearchByTitle.Designer.cs">
+      <DependentUpon>frmSearchByTitle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmShowAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShowAll.Designer.cs">
+      <DependentUpon>frmShowAll.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmStudentRegister.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -69,6 +81,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSearchByTitle.resx">
+      <DependentUpon>frmSearchByTitle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShowAll.resx">
+      <DependentUpon>frmShowAll.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmStudentRegister.resx">
       <DependentUpon>frmStudentRegister.cs</DependentUpon>
