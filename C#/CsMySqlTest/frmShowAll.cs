@@ -40,7 +40,9 @@ namespace WindowsFormsApp5
                 con.Open();
                 DataSet ds = new DataSet();
                 adapter.Fill(ds, "student_tb");
+
                 dgvStuData.DataSource = ds.Tables[0]; //ds.Tables["user_tb"]; 
+                dgvStuData.Sort(dgvStuData.Columns[0], ListSortDirection.Ascending);
                 con.Close();
 
             }
