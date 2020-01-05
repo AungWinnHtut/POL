@@ -40,9 +40,12 @@ namespace WindowsFormsApp5
                 con.Open();
                 DataSet ds = new DataSet();
                 adapter.Fill(ds, "student_tb");
-
-                dgvStuData.DataSource = ds.Tables[0]; //ds.Tables["user_tb"]; 
-                dgvStuData.Sort(dgvStuData.Columns[0], ListSortDirection.Ascending);
+                DataView dv;
+                dv = new DataView(ds.Tables[0], "course = 'C#' ", "course Asc", DataViewRowState.CurrentRows);
+                dgvStuData.DataSource = dv; // ds.Tables["student_tb"]; 
+                //dgvStuData.Sort(dgvStuData.Columns[1], ListSortDirection.Descending);
+                dgvStuData.Columns[5].Visible = false;
+                //dgvStuData.Rows[1].Visible = false;
                 con.Close();
 
             }
