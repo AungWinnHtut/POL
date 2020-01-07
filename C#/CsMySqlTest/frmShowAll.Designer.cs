@@ -46,6 +46,7 @@
             this.dgvStuData.RowHeadersWidth = 62;
             this.dgvStuData.Size = new System.Drawing.Size(974, 357);
             this.dgvStuData.TabIndex = 0;
+            this.dgvStuData.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvStuData_CellClick);
             // 
             // groupBox1
             // 

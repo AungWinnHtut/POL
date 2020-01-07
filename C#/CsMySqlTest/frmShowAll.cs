@@ -27,6 +27,19 @@ namespace WindowsFormsApp5
 
         private void frmShowAll_Load(object sender, EventArgs e)
         {
+            DataGridViewCheckBoxColumn chk = new DataGridViewCheckBoxColumn();
+            dgvStuData.Columns.Add(chk);
+            chk.HeaderText = "Check Data";
+            chk.Name = "chk";
+            //dgvStuData.Rows[1].Cells[0].Value = true;
+
+
+            //DataGridViewButtonColumn btn = new DataGridViewButtonColumn();
+            //dgvStuData.Columns.Add(btn);
+            //btn.HeaderText = "Click Data";
+            //btn.Text = "Click Here";
+            //btn.Name = "btn";
+            //btn.UseColumnTextForButtonValue = true;
             funShowAll();
         }
 
@@ -46,6 +59,7 @@ namespace WindowsFormsApp5
                 //dgvStuData.Sort(dgvStuData.Columns[1], ListSortDirection.Descending);
                 dgvStuData.Columns[5].Visible = false;
                 //dgvStuData.Rows[1].Visible = false;
+                dgvStuData.Sort(dgvStuData.Columns[2], ListSortDirection.Descending);
                 con.Close();
 
             }
@@ -58,6 +72,14 @@ namespace WindowsFormsApp5
         private void btnClear_Click(object sender, EventArgs e)
         {
             dgvStuData.DataSource = null;
+        }
+
+        private void dgvStuData_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            //if (e.ColumnIndex == 3)
+            //{
+                //MessageBox.Show((e.RowIndex ) + "  Row  " + (e.ColumnIndex ) + "  Column button clicked ");
+            //}
         }
     }
 }
