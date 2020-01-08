@@ -1,0 +1,19 @@
+ Volume in drive D is FastBuffer
+ Volume Serial Number is 1AE5-3580
+
+ Directory of D:\c
+
+01/08/2020  08:29 PM    <DIR>          .
+01/08/2020  08:29 PM    <DIR>          ..
+11/22/2019  06:37 PM    <DIR>          .vs
+11/25/2019  06:39 PM    <DIR>          Android
+11/25/2019  06:39 PM    <DIR>          Arduino
+12/20/2019  08:14 PM    <DIR>          C
+01/08/2020  08:03 PM    <DIR>          C#
+11/09/2019  02:29 PM             1,105 LICENSE
+11/09/2019  02:29 PM            11,720 Notes.docx
+12/10/2019  01:21 PM               109 path.txt
+11/16/2019  01:14 PM               150 README.md
+01/08/2020  08:29 PM                 0 test.txt
+               5 File(s)         13,084 bytes
+               7 Dir(s)  70,095,949,824 bytes free

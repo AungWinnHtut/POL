@@ -62,6 +62,36 @@ namespace WindowsFormsApp5
             }
         }
 
+
+        public void funUpdatePassword(String user,String pass)
+        {
+
+            try
+            {
+                MySqlConnection con = new MySqlConnection("datasource=localhost;port=3306;username=root");
+                con.Open();             
+                   
+                string query = "UPDATE student.user_tb SET password=@password WHERE uname =@uname";
+               
+                MySqlCommand cmd = new MySqlCommand();
+                cmd.CommandText = query;
+                cmd.Parameters.AddWithValue("@uname", user);
+                cmd.Parameters.AddWithValue("@password", pass);
+                                  
+                cmd.Connection = con;
+                cmd.ExecuteNonQuery();
+                con.Close();
+                MessageBox.Show("Update Success!");       
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+
+
         int title_selected = 0;
       
 
@@ -77,6 +107,18 @@ namespace WindowsFormsApp5
                 case 5: title_selected = 5; lblTitle.Text = "Course"; break;
 
             }
+        }
+
+        private void txtPhone_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnUpdate_Click(object sender, EventArgs e)
+        {
+            String user = txtUser.Text.ToString();
+            String pass = txtPassword.Text.ToString();
+            funUpdatePassword(user, pass);
         }
     }
 }

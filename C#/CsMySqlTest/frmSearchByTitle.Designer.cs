@@ -34,6 +34,9 @@
             this.btnSearch = new System.Windows.Forms.Button();
             this.cboTitle = new System.Windows.Forms.ComboBox();
             this.label2 = new System.Windows.Forms.Label();
+            this.btnUpdate = new System.Windows.Forms.Button();
+            this.txtPassword = new System.Windows.Forms.TextBox();
+            this.txtUser = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -52,6 +55,7 @@
             this.txtPhone.Name = "txtPhone";
             this.txtPhone.Size = new System.Drawing.Size(100, 26);
             this.txtPhone.TabIndex = 1;
+            this.txtPhone.TextChanged += new System.EventHandler(this.txtPhone_TextChanged);
             // 
             // dataGridView1
             // 
@@ -99,11 +103,38 @@
             this.label2.TabIndex = 5;
             this.label2.Text = "Choose Title";
             // 
+            // btnUpdate
+            // 
+            this.btnUpdate.Location = new System.Drawing.Point(31, 383);
+            this.btnUpdate.Name = "btnUpdate";
+            this.btnUpdate.Size = new System.Drawing.Size(186, 55);
+            this.btnUpdate.TabIndex = 6;
+            this.btnUpdate.Text = "Update Password";
+            this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
+            // 
+            // txtPassword
+            // 
+            this.txtPassword.Location = new System.Drawing.Point(159, 339);
+            this.txtPassword.Name = "txtPassword";
+            this.txtPassword.Size = new System.Drawing.Size(100, 26);
+            this.txtPassword.TabIndex = 7;
+            // 
+            // txtUser
+            // 
+            this.txtUser.Location = new System.Drawing.Point(31, 339);
+            this.txtUser.Name = "txtUser";
+            this.txtUser.Size = new System.Drawing.Size(100, 26);
+            this.txtUser.TabIndex = 8;
+            // 
             // frmSearchByTitle
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.txtUser);
+            this.Controls.Add(this.txtPassword);
+            this.Controls.Add(this.btnUpdate);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.cboTitle);
             this.Controls.Add(this.btnSearch);
@@ -126,5 +157,8 @@
         private System.Windows.Forms.Button btnSearch;
         private System.Windows.Forms.ComboBox cboTitle;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Button btnUpdate;
+        private System.Windows.Forms.TextBox txtPassword;
+        private System.Windows.Forms.TextBox txtUser;
     }
 }
