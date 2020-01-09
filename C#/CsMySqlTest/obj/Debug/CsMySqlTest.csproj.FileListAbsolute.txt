@@ -34,3 +34,4 @@ D:\c\C#\CsMySqlTest\obj\Debug\CsMySqlTest.csproj.CopyComplete
 D:\c\C#\CsMySqlTest\obj\Debug\WindowsFormsApp5.exe
 D:\c\C#\CsMySqlTest\obj\Debug\WindowsFormsApp5.pdb
 D:\c\C#\CsMySqlTest\obj\Debug\WindowsFormsApp5.frmSearchByTitle.resources
+D:\c\C#\CsMySqlTest\obj\Debug\WindowsFormsApp5.frmCipher.resources
