@@ -16,7 +16,7 @@ namespace WindowsFormsApp5
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmCipher  ());
+            Application.Run(new frmBrowser  ());
         }
     }
 }
