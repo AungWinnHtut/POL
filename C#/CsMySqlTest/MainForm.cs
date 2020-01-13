@@ -88,5 +88,41 @@ namespace WindowsFormsApp5
             }
 
         }
+
+        private void cipherToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmCipher frmcipher = new frmCipher();
+            frmcipher.Show();
+        }
+
+        private void browserToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmBrowser frmbrowser = new frmBrowser();
+            frmbrowser.Show();
+        }
+
+        private void loginToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmLogin frmlogin = new frmLogin();
+            frmlogin.Show();
+        }
+
+        private void searchByTitleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmSearchByTitle frmsearchbytitle = new frmSearchByTitle();
+            frmsearchbytitle.Show();
+        }
+
+        private void showAllToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmShowAll frmshowall = new frmShowAll();
+            frmshowall.Show();
+        }
+
+        private void studentRegisterToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmStudentRegister frmstudentregister = new frmStudentRegister();
+            frmstudentregister.Show();
+        }
     }
 }

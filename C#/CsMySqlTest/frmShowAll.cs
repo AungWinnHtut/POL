@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
+using Excel = Microsoft.Office.Interop.Excel;
+
 
 namespace WindowsFormsApp5
 {
@@ -61,8 +63,9 @@ namespace WindowsFormsApp5
             funShowAll();
         }
         DataSet ds = new DataSet();
-        MySqlDataAdapter adapter;
-        MySqlCommandBuilder bdrcmd;
+        DataSet ds2 = new DataSet();
+        MySqlDataAdapter adapter,adapter2;
+        MySqlCommandBuilder bdrcmd,bdrcmd2;
         public void funShowAll()
         {
             try
@@ -84,6 +87,16 @@ namespace WindowsFormsApp5
                 //dgvStuData.Rows[1].Visible = false;
                 //dgvStuData.Sort(dgvStuData.Columns[2], ListSortDirection.Descending);
                 con.Close();
+
+                MySqlConnection con2 = new MySqlConnection("datasource=localhost;port=3306;username=root");
+                adapter2 = new MySqlDataAdapter("Select * from student.user_tb", con2);
+                bdrcmd2 = new MySqlCommandBuilder(adapter2);
+                con2.Open();
+
+                adapter2.Fill(ds2, "student_tb");
+
+                dgvLogin .DataSource = ds2.Tables["student_tb"];               
+                con2.Close();
 
             }
             catch (Exception ex)
@@ -152,6 +165,87 @@ namespace WindowsFormsApp5
             //        this.dgvStuData.Rows.RemoveAt(0);
             //    }
         }
+
+        private void btnExport_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string sql = null;
+                string data = null;
+                int i = 0;
+                int j = 0;
+
+                DataSet ds2 = new DataSet(); 
+                MySqlConnection con = new MySqlConnection("datasource=localhost;port=3306;username=root");
+                adapter = new MySqlDataAdapter("Select * from student.student_tb", con);
+                bdrcmd = new MySqlCommandBuilder(adapter);
+               
+                con.Open();
+
+                adapter.Fill(ds2, "student_tb");
+               
+                con.Close();
+                Excel.Application xlApp;
+                Excel.Workbook xlWorkBook;
+                Excel.Worksheet xlWorkSheet;
+                object misValue = System.Reflection.Missing.Value;
+
+                xlApp = new Excel.Application();
+                xlWorkBook = xlApp.Workbooks.Add(misValue);
+                xlWorkSheet = (Excel.Worksheet)xlWorkBook.Worksheets.get_Item(1);
+
+                adapter.Fill(ds);
+
+                for (i = 0; i <= ds.Tables[0].Rows.Count - 1; i++)
+                {
+                    for (j = 0; j <= ds.Tables[0].Columns.Count - 1; j++)
+                    {
+                        data = ds.Tables[0].Rows[i].ItemArray[j].ToString();
+                        xlWorkSheet.Cells[i + 1, j + 1] = data;
+                    }
+                }
+
+                xlWorkBook.SaveAs("d:\\c\\c#\\mybackupdata.xls", Excel.XlFileFormat.xlWorkbookNormal, misValue, misValue, misValue, misValue, Excel.XlSaveAsAccessMode.xlExclusive, misValue, misValue, misValue, misValue, misValue);
+                xlWorkBook.Close(true, misValue, misValue);
+                xlApp.Quit();
+
+                releaseObject(xlWorkSheet);
+                releaseObject(xlWorkBook);
+                releaseObject(xlApp);
+
+                MessageBox.Show("Excel file created , you can find the file d:\\c\\c#\\mybackupdata.xls");
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+                      
+           
+
+            
+        }
+
+        private void releaseObject(object obj)
+        {
+            try
+            {
+                System.Runtime.InteropServices.Marshal.ReleaseComObject(obj);
+                obj = null;
+            }
+            catch (Exception ex)
+            {
+                obj = null;
+                MessageBox.Show("Exception Occured while releasing object " + ex.ToString());
+            }
+            finally
+            {
+                GC.Collect();
+            }
+        }
+
+
+
     }
 }
 
