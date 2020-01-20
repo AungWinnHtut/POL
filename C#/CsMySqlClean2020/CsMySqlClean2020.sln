@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsMySqlClean2020", "CsMySqlClean2020.csproj", "{5645060A-3493-4207-9488-E66F82AB2A4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5645060A-3493-4207-9488-E66F82AB2A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5645060A-3493-4207-9488-E66F82AB2A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5645060A-3493-4207-9488-E66F82AB2A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5645060A-3493-4207-9488-E66F82AB2A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {092D3F79-654B-46F8-AA64-E54715DAEA99}
+	EndGlobalSection
+EndGlobal

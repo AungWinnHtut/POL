@@ -1,0 +1,39 @@
+C:\Users\Dr.Aung Win Htut\source\repos\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Dr.Aung Win Htut\source\repos\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Dr.Aung Win Htut\source\repos\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Dr.Aung Win Htut\source\repos\WindowsFormsApp5\bin\Debug\MySql.Data.dll
+C:\Users\Dr.Aung Win Htut\source\repos\WindowsFormsApp5\bin\Debug\Google.Protobuf.dll
+C:\Users\Dr.Aung Win Htut\source\repos\WindowsFormsApp5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dr.Aung Win Htut\source\repos\WindowsFormsApp5\bin\Debug\Renci.SshNet.dll
+C:\Users\Dr.Aung Win Htut\source\repos\WindowsFormsApp5\bin\Debug\MySql.Data.xml
+C:\Users\Dr.Aung Win Htut\source\repos\WindowsFormsApp5\obj\Debug\CsMySqlTest.csprojAssemblyReference.cache
+C:\Users\Dr.Aung Win Htut\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.MainForm.resources
+C:\Users\Dr.Aung Win Htut\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Dr.Aung Win Htut\source\repos\WindowsFormsApp5\obj\Debug\CsMySqlTest.csproj.GenerateResource.cache
+C:\Users\Dr.Aung Win Htut\source\repos\WindowsFormsApp5\obj\Debug\CsMySqlTest.csproj.CopyComplete
+C:\Users\Dr.Aung Win Htut\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Dr.Aung Win Htut\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Dr.Aung Win Htut\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.frmLogin.resources
+C:\Users\Dr.Aung Win Htut\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.frmStudentRegister.resources
+D:\c\C#\CsMySqlTest\bin\Debug\WindowsFormsApp5.exe.config
+D:\c\C#\CsMySqlTest\bin\Debug\WindowsFormsApp5.exe
+D:\c\C#\CsMySqlTest\bin\Debug\WindowsFormsApp5.pdb
+D:\c\C#\CsMySqlTest\bin\Debug\MySql.Data.dll
+D:\c\C#\CsMySqlTest\bin\Debug\Google.Protobuf.dll
+D:\c\C#\CsMySqlTest\bin\Debug\BouncyCastle.Crypto.dll
+D:\c\C#\CsMySqlTest\bin\Debug\Renci.SshNet.dll
+D:\c\C#\CsMySqlTest\bin\Debug\MySql.Data.xml
+D:\c\C#\CsMySqlTest\obj\Debug\WindowsFormsApp5.frmLogin.resources
+D:\c\C#\CsMySqlTest\obj\Debug\WindowsFormsApp5.frmShowAll.resources
+D:\c\C#\CsMySqlTest\obj\Debug\WindowsFormsApp5.frmStudentRegister.resources
+D:\c\C#\CsMySqlTest\obj\Debug\WindowsFormsApp5.MainForm.resources
+D:\c\C#\CsMySqlTest\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+D:\c\C#\CsMySqlTest\obj\Debug\CsMySqlTest.csproj.GenerateResource.cache
+D:\c\C#\CsMySqlTest\obj\Debug\CsMySqlTest.csproj.CopyComplete
+D:\c\C#\CsMySqlTest\obj\Debug\WindowsFormsApp5.exe
+D:\c\C#\CsMySqlTest\obj\Debug\WindowsFormsApp5.pdb
+D:\c\C#\CsMySqlTest\obj\Debug\WindowsFormsApp5.frmSearchByTitle.resources
+D:\c\C#\CsMySqlTest\obj\Debug\WindowsFormsApp5.frmCipher.resources
+D:\c\C#\CsMySqlTest\obj\Debug\WindowsFormsApp5.frmBrowser.resources
+D:\c\C#\CsMySqlTest\obj\Debug\CsMySqlTest.csproj.ResolveComReference.cache
+D:\c\C#\CsMySqlTest\obj\Debug\CsMySqlTest.csprojAssemblyReference.cache
