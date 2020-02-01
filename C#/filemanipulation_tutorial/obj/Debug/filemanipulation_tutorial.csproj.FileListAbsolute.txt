@@ -1,0 +1,9 @@
+D:\c\C#\filemanipulation_tutorial\bin\Debug\filemanipulation_tutorial.exe.config
+D:\c\C#\filemanipulation_tutorial\bin\Debug\filemanipulation_tutorial.exe
+D:\c\C#\filemanipulation_tutorial\bin\Debug\filemanipulation_tutorial.pdb
+D:\c\C#\filemanipulation_tutorial\obj\Debug\filemanipulation_tutorial.csprojAssemblyReference.cache
+D:\c\C#\filemanipulation_tutorial\obj\Debug\filemanipulation_tutorial.Form1.resources
+D:\c\C#\filemanipulation_tutorial\obj\Debug\filemanipulation_tutorial.Properties.Resources.resources
+D:\c\C#\filemanipulation_tutorial\obj\Debug\filemanipulation_tutorial.csproj.GenerateResource.cache
+D:\c\C#\filemanipulation_tutorial\obj\Debug\filemanipulation_tutorial.exe
+D:\c\C#\filemanipulation_tutorial\obj\Debug\filemanipulation_tutorial.pdb

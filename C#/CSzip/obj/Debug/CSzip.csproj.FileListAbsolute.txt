@@ -1,0 +1,9 @@
+D:\c\C#\CSzip\obj\Debug\CSzip.csprojAssemblyReference.cache
+D:\c\C#\CSzip\obj\Debug\CSzip.frmZip.resources
+D:\c\C#\CSzip\obj\Debug\CSzip.Properties.Resources.resources
+D:\c\C#\CSzip\obj\Debug\CSzip.csproj.GenerateResource.cache
+D:\c\C#\CSzip\bin\Debug\CSzip.exe.config
+D:\c\C#\CSzip\bin\Debug\CSzip.exe
+D:\c\C#\CSzip\bin\Debug\CSzip.pdb
+D:\c\C#\CSzip\obj\Debug\CSzip.exe
+D:\c\C#\CSzip\obj\Debug\CSzip.pdb
