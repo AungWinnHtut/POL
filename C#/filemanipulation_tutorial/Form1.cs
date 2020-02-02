@@ -14,6 +14,7 @@ namespace filemanipulation_tutorial
     public partial class Form1 : Form
     {
         static long count = 0;
+        static long fcount = 0;
         public Form1()
         {
             InitializeComponent();
@@ -47,7 +48,8 @@ namespace filemanipulation_tutorial
             //MessageBox.Show("Last Write Time: " + Directory.GetLastWriteTime(dirPath));
             //MessageBox.Show(Directory.GetCurrentDirectory());
             funTree("D:\\");
-            this.Text = count.ToString() + " files listed";
+            this.Text = count.ToString() + " directories listed and "+fcount.ToString ()+" files listed";
+
         }
 
         public void funTree(String path)
@@ -58,6 +60,12 @@ namespace filemanipulation_tutorial
                 foreach (String dir in dl)
                 {
                     listBox1.Items.Add(dir);
+                    List<String> fl = new List<string>(Directory.EnumerateFiles(dir, "*.*"));
+                    foreach (String fil in fl)
+                    {
+                        listBox1.Items.Add("-->" + fil);
+                        fcount++;
+                    }
                     count++;
                     funTree(dir);//recursion
 
@@ -65,9 +73,16 @@ namespace filemanipulation_tutorial
             }
             catch(Exception ex)
             {
-
+                listBox2.Items.Add(ex.ToString());
             }
         }
 
+        private void btnTest_Click(object sender, EventArgs e)
+        {
+            DirectoryInfo di = new DirectoryInfo("d:\\c");
+            FileInfo fi = new FileInfo("d:\\c\\test.txt");
+
+            MessageBox.Show(fi.DirectoryName);
+        }
     }
 }
