@@ -1,3 +1,15 @@
+
+
+
+
+
+
+
+
+/*
+	This Program is Written By Dr. Aung Win Htut
+	Green Hackers 2020-02-18
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>

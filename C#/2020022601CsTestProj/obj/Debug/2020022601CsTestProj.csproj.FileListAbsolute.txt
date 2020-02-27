@@ -1,0 +1,9 @@
+D:\c\C#\2020022601CsTestProj\bin\Debug\2020022601CsTestProj.exe.config
+D:\c\C#\2020022601CsTestProj\bin\Debug\2020022601CsTestProj.exe
+D:\c\C#\2020022601CsTestProj\bin\Debug\2020022601CsTestProj.pdb
+D:\c\C#\2020022601CsTestProj\obj\Debug\2020022601CsTestProj.csprojAssemblyReference.cache
+D:\c\C#\2020022601CsTestProj\obj\Debug\_2020022601CsTestProj.Properties.Resources.resources
+D:\c\C#\2020022601CsTestProj\obj\Debug\2020022601CsTestProj.csproj.GenerateResource.cache
+D:\c\C#\2020022601CsTestProj\obj\Debug\2020022601CsTestProj.exe
+D:\c\C#\2020022601CsTestProj\obj\Debug\2020022601CsTestProj.pdb
+D:\c\C#\2020022601CsTestProj\obj\Debug\_2020022601CsTestProj.frmPhoto.resources

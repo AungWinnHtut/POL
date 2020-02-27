@@ -1,0 +1,13 @@
+D:\c\C#\2020022701CsSystemInfo\bin\Debug\2020022701CsSystemInfo.exe.config
+D:\c\C#\2020022701CsSystemInfo\bin\Debug\2020022701CsSystemInfo.exe
+D:\c\C#\2020022701CsSystemInfo\bin\Debug\2020022701CsSystemInfo.pdb
+D:\c\C#\2020022701CsSystemInfo\obj\Debug\2020022701CsSystemInfo.csprojAssemblyReference.cache
+D:\c\C#\2020022701CsSystemInfo\obj\Debug\_2020022701CsSystemInfo.Form1.resources
+D:\c\C#\2020022701CsSystemInfo\obj\Debug\_2020022701CsSystemInfo.Properties.Resources.resources
+D:\c\C#\2020022701CsSystemInfo\obj\Debug\2020022701CsSystemInfo.csproj.GenerateResource.cache
+D:\c\C#\2020022701CsSystemInfo\obj\Debug\2020022701CsSystemInfo.exe
+D:\c\C#\2020022701CsSystemInfo\obj\Debug\2020022701CsSystemInfo.pdb
+D:\c\C#\2020022701CsSystemInfo\bin\Debug\MetroFramework.Design.dll
+D:\c\C#\2020022701CsSystemInfo\bin\Debug\MetroFramework.dll
+D:\c\C#\2020022701CsSystemInfo\bin\Debug\MetroFramework.Fonts.dll
+D:\c\C#\2020022701CsSystemInfo\obj\Debug\2020022701CsSystemInfo.csproj.CopyComplete

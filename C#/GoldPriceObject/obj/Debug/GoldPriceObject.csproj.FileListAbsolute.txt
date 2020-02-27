@@ -1,0 +1,9 @@
+D:\c\C#\GoldPriceObject\bin\Debug\GoldPriceObject.exe.config
+D:\c\C#\GoldPriceObject\bin\Debug\GoldPriceObject.exe
+D:\c\C#\GoldPriceObject\bin\Debug\GoldPriceObject.pdb
+D:\c\C#\GoldPriceObject\obj\Debug\GoldPriceObject.csprojAssemblyReference.cache
+D:\c\C#\GoldPriceObject\obj\Debug\GoldPriceObject.Form1.resources
+D:\c\C#\GoldPriceObject\obj\Debug\GoldPriceObject.Properties.Resources.resources
+D:\c\C#\GoldPriceObject\obj\Debug\GoldPriceObject.csproj.GenerateResource.cache
+D:\c\C#\GoldPriceObject\obj\Debug\GoldPriceObject.exe
+D:\c\C#\GoldPriceObject\obj\Debug\GoldPriceObject.pdb

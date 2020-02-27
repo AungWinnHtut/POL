@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\c\C\2020022401C miles2km\Source.cpp(12,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  2020022401C miles2km.vcxproj -> D:\c\C\2020022401C miles2km\Debug\2020022401C miles2km.exe

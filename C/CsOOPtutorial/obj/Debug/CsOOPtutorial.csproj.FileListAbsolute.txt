@@ -1,0 +1,9 @@
+D:\c\C\CsOOPtutorial\bin\Debug\CsOOPtutorial.exe.config
+D:\c\C\CsOOPtutorial\bin\Debug\CsOOPtutorial.exe
+D:\c\C\CsOOPtutorial\bin\Debug\CsOOPtutorial.pdb
+D:\c\C\CsOOPtutorial\obj\Debug\CsOOPtutorial.csprojAssemblyReference.cache
+D:\c\C\CsOOPtutorial\obj\Debug\CsOOPtutorial.Form1.resources
+D:\c\C\CsOOPtutorial\obj\Debug\CsOOPtutorial.Properties.Resources.resources
+D:\c\C\CsOOPtutorial\obj\Debug\CsOOPtutorial.csproj.GenerateResource.cache
+D:\c\C\CsOOPtutorial\obj\Debug\CsOOPtutorial.exe
+D:\c\C\CsOOPtutorial\obj\Debug\CsOOPtutorial.pdb

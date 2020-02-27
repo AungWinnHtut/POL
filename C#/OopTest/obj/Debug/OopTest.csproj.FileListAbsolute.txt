@@ -1,0 +1,9 @@
+D:\c\C#\OopTest\bin\Debug\OopTest.exe.config
+D:\c\C#\OopTest\bin\Debug\OopTest.exe
+D:\c\C#\OopTest\bin\Debug\OopTest.pdb
+D:\c\C#\OopTest\obj\Debug\OopTest.csprojAssemblyReference.cache
+D:\c\C#\OopTest\obj\Debug\OopTest.Form1.resources
+D:\c\C#\OopTest\obj\Debug\OopTest.Properties.Resources.resources
+D:\c\C#\OopTest\obj\Debug\OopTest.csproj.GenerateResource.cache
+D:\c\C#\OopTest\obj\Debug\OopTest.exe
+D:\c\C#\OopTest\obj\Debug\OopTest.pdb

@@ -1,0 +1,3 @@
+﻿  convert.cpp
+D:\c\C\2020022301Cconvert\convert.cpp(15,10): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+D:\c\C\2020022301Cconvert\convert.cpp(15): error C4700: uninitialized local variable 'yard' used

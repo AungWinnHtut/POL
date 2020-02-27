@@ -1,0 +1,9 @@
+D:\c\C#\2020022301CsFamilyAlbum\bin\Debug\2020022301CsFamilyAlbum.exe.config
+D:\c\C#\2020022301CsFamilyAlbum\bin\Debug\2020022301CsFamilyAlbum.exe
+D:\c\C#\2020022301CsFamilyAlbum\bin\Debug\2020022301CsFamilyAlbum.pdb
+D:\c\C#\2020022301CsFamilyAlbum\obj\Debug\2020022301CsFamilyAlbum.csprojAssemblyReference.cache
+D:\c\C#\2020022301CsFamilyAlbum\obj\Debug\_2020022301CsFamilyAlbum.frmAlbum.resources
+D:\c\C#\2020022301CsFamilyAlbum\obj\Debug\_2020022301CsFamilyAlbum.Properties.Resources.resources
+D:\c\C#\2020022301CsFamilyAlbum\obj\Debug\2020022301CsFamilyAlbum.csproj.GenerateResource.cache
+D:\c\C#\2020022301CsFamilyAlbum\obj\Debug\2020022301CsFamilyAlbum.exe
+D:\c\C#\2020022301CsFamilyAlbum\obj\Debug\2020022301CsFamilyAlbum.pdb
