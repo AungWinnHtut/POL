@@ -16,7 +16,7 @@ Aung Kyaw Soe
 1.JavaScript Fundamentals for Absolute Beginners https://www.youtube.com/watch?v=icB92E1o0k8&list=PLIoX3-mcY80jDO-enmTgmswwo53K_jHYY 
 
 
-2.  Using Git with Visual Studio 2013 Jump Start https://www.youtube.com/watch?v=n6u1PtmxXyg&list=PLIoX3-mcY80hBiAgmJ_i9FtDRPoeSKix0 
+2.Using Git with Visual Studio 2013 Jump Start https://www.youtube.com/watch?v=n6u1PtmxXyg&list=PLIoX3-mcY80hBiAgmJ_i9FtDRPoeSKix0 
 
 https://www.youtube.com/watch?v=t9TmvFvYfWw&list=PLIoX3-mcY80giUxyJqOCgYDJMt3LVRDNm Networking Fundamentals
 
