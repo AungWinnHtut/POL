@@ -18,25 +18,27 @@ Aung Kyaw Soe
 
 2.Using Git with Visual Studio 2013 Jump Start https://www.youtube.com/watch?v=n6u1PtmxXyg&list=PLIoX3-mcY80hBiAgmJ_i9FtDRPoeSKix0 
 
-https://www.youtube.com/watch?v=t9TmvFvYfWw&list=PLIoX3-mcY80giUxyJqOCgYDJMt3LVRDNm Networking Fundamentals
+3.Networking Fundamentals https://www.youtube.com/watch?v=t9TmvFvYfWw&list=PLIoX3-mcY80giUxyJqOCgYDJMt3LVRDNm 
 
-https://www.youtube.com/watch?v=GdeaqBCR5PQ&list=PLIoX3-mcY80hub9r9D9_ltMFW6mdRLLTw   Database Fundamentals
+4.Database Fundamentals https://www.youtube.com/watch?v=GdeaqBCR5PQ&list=PLIoX3-mcY80hub9r9D9_ltMFW6mdRLLTw   
 
-https://www.youtube.com/watch?v=xcFVovtoXtQ&list=PLrzrNeNx3kNFWEFiJ2ameLAl9Qr2irBhB Up and Running with C#
+5.Up and Running with C# https://www.youtube.com/watch?v=xcFVovtoXtQ&list=PLrzrNeNx3kNFWEFiJ2ameLAl9Qr2irBhB 
 
-https://www.youtube.com/watch?v=QSTFdXxJUTM&list=PLrzrNeNx3kNFZIY8zqzmYgDvyiwzuKFaq Android for .NET Developers - 1 Getting Started 
+6.Android for .NET Developers - 1 Getting Started https://www.youtube.com/watch?v=QSTFdXxJUTM&list=PLrzrNeNx3kNFZIY8zqzmYgDvyiwzuKFaq 
 
-https://www.youtube.com/watch?v=J3AkSbsgKT8&list=PLrzrNeNx3kNHUOzNmvX5gZy0scGLKpY7m Advanced C#
+7.Advanced C# https://www.youtube.com/watch?v=J3AkSbsgKT8&list=PLrzrNeNx3kNHUOzNmvX5gZy0scGLKpY7m 
 
-https://www.youtube.com/watch?v=vH0NXAZLOTg&list=PLsVOWn0oLqRy-ddlT9iBsJzZcldQ07n9O C# Book Shop Management (User Interface)
+8.C# Book Shop Management (User Interface) https://www.youtube.com/watch?v=vH0NXAZLOTg&list=PLsVOWn0oLqRy-ddlT9iBsJzZcldQ07n9O 
 
-https://www.youtube.com/watch?v=wQOONLaozjQ&list=PLIoX3-mcY80ipW29dddQ6xHVSTPd0-Q08  Power Shell Jump Start
+9.Power Shell Jump Start https://www.youtube.com/watch?v=wQOONLaozjQ&list=PLIoX3-mcY80ipW29dddQ6xHVSTPd0-Q08  
 
-https://www.youtube.com/watch?v=5EhmxkdAy0Y&list=PLIoX3-mcY80jZxzpiXjBccAVaIZm_znha Csharp JumpStart
+10.Csharp JumpStart https://www.youtube.com/watch?v=5EhmxkdAy0Y&list=PLIoX3-mcY80jZxzpiXjBccAVaIZm_znha 
 
-https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M Write your own operating system
+11.Write your own operating system https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M 
 
-https://www.youtube.com/watch?v=haGhLMuTekQ&list=PLFt6yBDnqgJA5ZO7vEmP5Cf9vI_iGPoZD&index=1 C++ File IO
+12.C++ File IO https://www.youtube.com/watch?v=haGhLMuTekQ&list=PLFt6yBDnqgJA5ZO7vEmP5Cf9vI_iGPoZD&index=1 
+
+13.
 
 
 
