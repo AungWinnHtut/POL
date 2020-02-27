@@ -38,7 +38,25 @@ Aung Kyaw Soe
 
 12.C++ File IO https://www.youtube.com/watch?v=haGhLMuTekQ&list=PLFt6yBDnqgJA5ZO7vEmP5Cf9vI_iGPoZD&index=1 
 
-13.
+13.Socket Programming in C https://www.youtube.com/watch?v=V6CohFrRNTo&list=PLD4E710D7A7EAD4CC 
+
+14.Socket Programming in C https://www.youtube.com/watch?v=hptViBE23fI&list=PLHYn9gDxQOpizt0_tvN7nJHP_70il0YJm
+
+15.Introduction to TensorFlow https://www.youtube.com/watch?v=WH_HpThYYPQ&list=PLHYn9gDxQOpisJoIMv-L2awUGBf7oH1qF
+
+16.Learn Modbus Protocol https://www.youtube.com/watch?v=k993tAFRLSE&list=PL3y71jAPOdZAs1Y4T58fPFJ8jWUogfLBq
+
+17.Modbus communication https://www.youtube.com/watch?v=BuJJh1jXjYo&list=PLkNSEPvX820DURNp8MTTr-dIyBS1OsjV_
+
+18.Modbus with C# https://www.youtube.com/watch?v=XVowOvOYSRo 
+
+19.C# PLC drivers https://www.youtube.com/watch?v=T4OECx2MDV0&list=PLmkQQ7UiJoOqV-RDhWX1oRdiSSUApeO75
+
+20.Modbus Lib fro C# https://www.mesta-automation.com/modbus-with-c-sharp-libraries-examples/
+
+21.Simple Modbus C# tutorial https://www.codeproject.com/Articles/20929/Simple-Modbus-Protocol-in-C-NET-2-0
+
+22.
 
 
 
