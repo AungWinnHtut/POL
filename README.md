@@ -60,6 +60,8 @@ Aung Kyaw Soe
 
 23.Amazon AWS testing https://us-east-2.console.aws.amazon.com/console/home?region=us-east-2#
 
+24. Edureka!!! https://www.youtube.com/user/edurekaIN/playlists
+
 
 
 
