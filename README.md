@@ -56,7 +56,12 @@ Aung Kyaw Soe
 
 21.Simple Modbus C# tutorial https://www.codeproject.com/Articles/20929/Simple-Modbus-Protocol-in-C-NET-2-0
 
-22.
+22.How to install Apache MySql PHP on linux https://www.vultr.com/docs/how-to-install-apache-mysql-and-php-on-ubuntu-17-04
+
+23.Amazon AWS testing https://us-east-2.console.aws.amazon.com/console/home?region=us-east-2#
+
+24. Edureka!!! https://www.youtube.com/user/edurekaIN/playlists
+
 
 
 
