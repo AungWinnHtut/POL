@@ -1,0 +1,14 @@
+D:\c\C#\2020030101CsMediaPlayer\bin\Debug\2020030101CsMediaPlayer.exe.config
+D:\c\C#\2020030101CsMediaPlayer\bin\Debug\2020030101CsMediaPlayer.exe
+D:\c\C#\2020030101CsMediaPlayer\bin\Debug\2020030101CsMediaPlayer.pdb
+D:\c\C#\2020030101CsMediaPlayer\bin\Debug\Interop.WMPLib.dll
+D:\c\C#\2020030101CsMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\c\C#\2020030101CsMediaPlayer\obj\Debug\2020030101CsMediaPlayer.csprojAssemblyReference.cache
+D:\c\C#\2020030101CsMediaPlayer\obj\Debug\Interop.WMPLib.dll
+D:\c\C#\2020030101CsMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\c\C#\2020030101CsMediaPlayer\obj\Debug\2020030101CsMediaPlayer.csproj.ResolveComReference.cache
+D:\c\C#\2020030101CsMediaPlayer\obj\Debug\_2020030101CsMediaPlayer.Properties.Resources.resources
+D:\c\C#\2020030101CsMediaPlayer\obj\Debug\2020030101CsMediaPlayer.csproj.GenerateResource.cache
+D:\c\C#\2020030101CsMediaPlayer\obj\Debug\2020030101CsMediaPlayer.exe
+D:\c\C#\2020030101CsMediaPlayer\obj\Debug\2020030101CsMediaPlayer.pdb
+D:\c\C#\2020030101CsMediaPlayer\obj\Debug\_2020030101CsMediaPlayer.frmPlayer.resources
