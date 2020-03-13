@@ -18,5 +18,17 @@
     <ClCompile Include="OverAllC.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="delay.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="clock.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="print.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
