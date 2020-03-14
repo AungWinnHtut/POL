@@ -4,7 +4,7 @@
 #include <limits.h>
 #include <float.h>
 
-int main(int argc, char** argv) {
+int main5(int argc, char** argv) {
 
 	printf("CHAR_BIT    :   %d\n", CHAR_BIT);
 	printf("CHAR_MAX    :   %d\n", CHAR_MAX);

@@ -123,11 +123,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="clock.c" />
-    <ClCompile Include="delay.c" />
-    <ClCompile Include="function.c" />
-    <ClCompile Include="OverAllC.cpp" />
-    <ClCompile Include="print.c" />
+    <ClCompile Include="array7.c" />
+    <ClCompile Include="clock1.c" />
+    <ClCompile Include="delay2.c" />
+    <ClCompile Include="function3.c" />
+    <ClCompile Include="OverAllC4.cpp" />
+    <ClCompile Include="print5.c" />
+    <ClCompile Include="scope6.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,7 +1,7 @@
 #include<stdio.h>
 float area(float r); //function declaration
 float volume(float r, float h);
-int main5()
+int main3()
 {
 	float v1 = volume(22.5, 44);
 	printf("volume is %f", v1);

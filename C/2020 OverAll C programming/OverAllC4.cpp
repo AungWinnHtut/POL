@@ -5,7 +5,7 @@
 
 
 
-int main1() {
+int main4() {
 	int age = 0;
 	int id = 0;
 	int amount = 0;

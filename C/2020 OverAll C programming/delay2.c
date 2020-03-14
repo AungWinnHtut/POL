@@ -21,7 +21,7 @@ void delay(int milli_seconds)
 
 
 // Driver code to test above function 
-int main4()
+int main2()
 {
 	int i;
 

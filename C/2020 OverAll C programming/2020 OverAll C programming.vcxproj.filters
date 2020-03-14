@@ -15,19 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="OverAllC.cpp">
+    <ClCompile Include="scope6.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="delay.c">
+    <ClCompile Include="print5.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="clock.c">
+    <ClCompile Include="OverAllC4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="function.c">
+    <ClCompile Include="function3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="print.c">
+    <ClCompile Include="delay2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="clock1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array7.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
