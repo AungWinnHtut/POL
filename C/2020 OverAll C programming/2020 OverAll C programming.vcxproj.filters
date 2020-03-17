@@ -36,5 +36,8 @@
     <ClCompile Include="array7.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="cipher8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

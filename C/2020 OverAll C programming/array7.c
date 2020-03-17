@@ -2,7 +2,7 @@
 #define size 5
 
 
-int main()
+int main7()
 {
 	int iArr[size] = {	0, 0, 0, 0, 0 };
 
