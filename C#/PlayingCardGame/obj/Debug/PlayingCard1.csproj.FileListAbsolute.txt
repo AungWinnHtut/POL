@@ -1,0 +1,9 @@
+C:\Users\Dr.Aung Win Htut\source\repos\PlayingCard1\bin\Debug\PlayingCard1.exe.config
+C:\Users\Dr.Aung Win Htut\source\repos\PlayingCard1\bin\Debug\PlayingCard1.exe
+C:\Users\Dr.Aung Win Htut\source\repos\PlayingCard1\bin\Debug\PlayingCard1.pdb
+C:\Users\Dr.Aung Win Htut\source\repos\PlayingCard1\obj\Debug\PlayingCard1.csprojAssemblyReference.cache
+C:\Users\Dr.Aung Win Htut\source\repos\PlayingCard1\obj\Debug\PlayingCard1.frmCardGame.resources
+C:\Users\Dr.Aung Win Htut\source\repos\PlayingCard1\obj\Debug\PlayingCard1.Properties.Resources.resources
+C:\Users\Dr.Aung Win Htut\source\repos\PlayingCard1\obj\Debug\PlayingCard1.csproj.GenerateResource.cache
+C:\Users\Dr.Aung Win Htut\source\repos\PlayingCard1\obj\Debug\PlayingCard1.exe
+C:\Users\Dr.Aung Win Htut\source\repos\PlayingCard1\obj\Debug\PlayingCard1.pdb

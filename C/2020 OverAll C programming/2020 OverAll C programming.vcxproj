@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="array7.c" />
     <ClCompile Include="cipher8.c" />
+    <ClCompile Include="cipher9.c" />
     <ClCompile Include="clock1.c" />
     <ClCompile Include="delay2.c" />
     <ClCompile Include="function3.c" />

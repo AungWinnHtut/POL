@@ -1,0 +1,9 @@
+D:\c\C#\PlayingCardGame\bin\Debug\PlayingCard1.exe.config
+D:\c\C#\PlayingCardGame\bin\Debug\PlayingCard1.exe
+D:\c\C#\PlayingCardGame\bin\Debug\PlayingCard1.pdb
+D:\c\C#\PlayingCardGame\obj\Debug\PlayingCardGame.csprojAssemblyReference.cache
+D:\c\C#\PlayingCardGame\obj\Debug\PlayingCard1.frmCardGame.resources
+D:\c\C#\PlayingCardGame\obj\Debug\PlayingCard1.Properties.Resources.resources
+D:\c\C#\PlayingCardGame\obj\Debug\PlayingCardGame.csproj.GenerateResource.cache
+D:\c\C#\PlayingCardGame\obj\Debug\PlayingCard1.exe
+D:\c\C#\PlayingCardGame\obj\Debug\PlayingCard1.pdb

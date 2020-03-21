@@ -1,0 +1,9 @@
+C:\Users\Dr.Aung Win Htut\source\repos\FileAndFolders\bin\Debug\FileAndFolders.exe.config
+C:\Users\Dr.Aung Win Htut\source\repos\FileAndFolders\bin\Debug\FileAndFolders.exe
+C:\Users\Dr.Aung Win Htut\source\repos\FileAndFolders\bin\Debug\FileAndFolders.pdb
+C:\Users\Dr.Aung Win Htut\source\repos\FileAndFolders\obj\Debug\FileAndFolders.csprojAssemblyReference.cache
+C:\Users\Dr.Aung Win Htut\source\repos\FileAndFolders\obj\Debug\FileAndFolders.frmInfo.resources
+C:\Users\Dr.Aung Win Htut\source\repos\FileAndFolders\obj\Debug\FileAndFolders.Properties.Resources.resources
+C:\Users\Dr.Aung Win Htut\source\repos\FileAndFolders\obj\Debug\FileAndFolders.csproj.GenerateResource.cache
+C:\Users\Dr.Aung Win Htut\source\repos\FileAndFolders\obj\Debug\FileAndFolders.exe
+C:\Users\Dr.Aung Win Htut\source\repos\FileAndFolders\obj\Debug\FileAndFolders.pdb

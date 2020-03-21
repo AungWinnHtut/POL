@@ -1,0 +1,9 @@
+C:\Users\Dr.Aung Win Htut\source\repos\datetimetest\bin\Debug\datetimetest.exe.config
+C:\Users\Dr.Aung Win Htut\source\repos\datetimetest\bin\Debug\datetimetest.exe
+C:\Users\Dr.Aung Win Htut\source\repos\datetimetest\bin\Debug\datetimetest.pdb
+C:\Users\Dr.Aung Win Htut\source\repos\datetimetest\obj\Debug\datetimetest.csprojAssemblyReference.cache
+C:\Users\Dr.Aung Win Htut\source\repos\datetimetest\obj\Debug\datetimetest.Form1.resources
+C:\Users\Dr.Aung Win Htut\source\repos\datetimetest\obj\Debug\datetimetest.Properties.Resources.resources
+C:\Users\Dr.Aung Win Htut\source\repos\datetimetest\obj\Debug\datetimetest.csproj.GenerateResource.cache
+C:\Users\Dr.Aung Win Htut\source\repos\datetimetest\obj\Debug\datetimetest.exe
+C:\Users\Dr.Aung Win Htut\source\repos\datetimetest\obj\Debug\datetimetest.pdb
