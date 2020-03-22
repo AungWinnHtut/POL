@@ -16,7 +16,7 @@ namespace PlayingCard1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmCardGame());
+            Application.Run(new frmThreeCard());
         }
     }
 }
