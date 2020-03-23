@@ -14,10 +14,18 @@ namespace PlayingCard1
 {    
     public partial class frmThreeCard : Form
     {
+        public string datapath = Directory.GetCurrentDirectory() + "\\cards\\" + "gamedata.txt";
+
         private int iDscore = 0;
         private int iPscore = 0;
 
         Card c = new Card();
+        Card.oneCard oC = new Card.oneCard();
+        int Dcount = 0;
+        int Pcount = 0;
+        int gamecount = 0;
+        int status = -1; //0 dealer win, 1 player win, 2 draw
+
 
         public frmThreeCard()
         {
@@ -43,11 +51,15 @@ namespace PlayingCard1
             picP1.Image = Image.FromFile(backcard);
             picP2.Image = Image.FromFile(backcard);
             picP3.Image = Image.FromFile(backcard);
-            picW.Image = Image.FromFile(backcard);
+            //picW.Image = Image.FromFile(backcard);
             txtDscore.Text = "0";
             txtPscore.Text = "0";
             iDscore = 0;
             iPscore = 0;
+            gamecount = 0;
+            Dcount = 0;
+            Pcount = 0;
+            status = -1;
             c.Shuffle();
         }
 
@@ -56,51 +68,15 @@ namespace PlayingCard1
             funRestart();
         }
 
-        private void btnPlay_Click(object sender, EventArgs e)
+        private async void btnPlay_Click(object sender, EventArgs e)
         {
-            Card.oneCard oC = new Card.oneCard();
-            int Dcount = 0;
-            int Pcount = 0;
+            funRestart();
 
-            for(int gamecount=0;gamecount<6;gamecount++)
+            for (int i=0;i<6;i++)
             {
-                oC = c.Deal();
-                string img = c.showCard(oC.getFacesuit());
 
-                if (gamecount%2==0)
-                {
-                    Dcount++;
-                    //Dealer
-                 
-                    iDscore += oC.getValue();
-                    txtDscore.Text = iDscore.ToString();
-                    
-
-                    switch (Dcount)
-                    {
-                        case 1: picD1.Image = Image.FromFile(img); break;
-                        case 2: picD2.Image = Image.FromFile(img); break;
-                        case 3: picD3.Image = Image.FromFile(img); break;
-                        default: MessageBox.Show("error"); break;
-                    }
-                }
-                else
-                {
-                    Pcount++;
-                    //Player
-                    iPscore += oC.getValue();
-                    txtPscore.Text = iPscore.ToString();
-
-                    switch (Dcount)
-                    {
-                        case 1: picP1.Image = Image.FromFile(img); break;
-                        case 2: picP2.Image = Image.FromFile(img); break;
-                        case 3: picP3.Image = Image.FromFile(img); break;
-                        default: MessageBox.Show("error"); break;
-                    }
-                }
-
-                //Thread.Sleep(2000);
+                funDeal();
+                await Task.Delay(500);
 
             }
 
@@ -116,17 +92,81 @@ namespace PlayingCard1
             if (iDscore > iPscore )
             {
                 MessageBox.Show("Dealer Win!");
+                status = 0;
             }
             else if(iPscore > iDscore )
             {
                 MessageBox.Show("Player Win!");
+                status = 1;
             }
             else
             {
                 MessageBox.Show("Draw!");
+                status = 2;
             }
-           
 
+            //iDscor,iPscore,status
+
+            funSaveGameData(iDscore, iPscore, status);
+
+        }
+
+        public void funDeal()
+        {
+            oC = c.Deal();
+            string img = c.showCard(oC.getFacesuit());
+
+            if (gamecount % 2 == 0)
+            {
+                Dcount++;
+                //Dealer
+
+                iDscore += oC.getValue();
+                txtDscore.Text = iDscore.ToString();
+
+
+                switch (Dcount)
+                {
+                    case 1: picD1.Image = Image.FromFile(img); break;
+                    case 2: picD2.Image = Image.FromFile(img); break;
+                    case 3: picD3.Image = Image.FromFile(img); break;
+                    default: MessageBox.Show("error"); break;
+                }
+            }
+            else
+            {
+                Pcount++;
+                //Player
+                iPscore += oC.getValue();
+                txtPscore.Text = iPscore.ToString();
+
+                switch (Dcount)
+                {
+                    case 1: picP1.Image = Image.FromFile(img); break;
+                    case 2: picP2.Image = Image.FromFile(img); break;
+                    case 3: picP3.Image = Image.FromFile(img); break;
+                    default: MessageBox.Show("error"); break;
+                }
+            }
+            gamecount++;
+        }
+
+        public void funSaveGameData(int d, int p, int s)
+        {
+            
+            using (StreamWriter sw = new StreamWriter(datapath,true))
+            {
+                string data = d.ToString() + "," + p.ToString() + "," + s.ToString();
+                sw.WriteLine(data);
+            }
+        }
+
+
+
+        private void btnScoreBoard_Click(object sender, EventArgs e)
+        {
+            frmScoreBoard frms = new frmScoreBoard();
+            frms.ShowDialog();
         }
     }
 }

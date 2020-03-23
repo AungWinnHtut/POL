@@ -28,6 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmThreeCard));
             this.picD1 = new System.Windows.Forms.PictureBox();
             this.picD2 = new System.Windows.Forms.PictureBox();
             this.picD3 = new System.Windows.Forms.PictureBox();
@@ -44,6 +46,8 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.picW = new System.Windows.Forms.PictureBox();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.btnScoreBoard = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.picD1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picD2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picD3)).BeginInit();
@@ -113,14 +117,14 @@
             // 
             // txtDscore
             // 
-            this.txtDscore.Location = new System.Drawing.Point(605, 68);
+            this.txtDscore.Location = new System.Drawing.Point(613, 401);
             this.txtDscore.Name = "txtDscore";
             this.txtDscore.Size = new System.Drawing.Size(100, 26);
             this.txtDscore.TabIndex = 7;
             // 
             // txtPscore
             // 
-            this.txtPscore.Location = new System.Drawing.Point(605, 105);
+            this.txtPscore.Location = new System.Drawing.Point(613, 438);
             this.txtPscore.Name = "txtPscore";
             this.txtPscore.Size = new System.Drawing.Size(100, 26);
             this.txtPscore.TabIndex = 8;
@@ -138,7 +142,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(513, 71);
+            this.label1.Location = new System.Drawing.Point(521, 404);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(56, 20);
             this.label1.TabIndex = 10;
@@ -147,7 +151,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(513, 108);
+            this.label2.Location = new System.Drawing.Point(521, 441);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(52, 20);
             this.label2.TabIndex = 11;
@@ -157,7 +161,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(512, 47);
+            this.label3.Location = new System.Drawing.Point(520, 380);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(80, 25);
             this.label3.TabIndex = 12;
@@ -184,17 +188,34 @@
             // 
             // picW
             // 
-            this.picW.Location = new System.Drawing.Point(569, 176);
+            this.picW.Image = ((System.Drawing.Image)(resources.GetObject("picW.Image")));
+            this.picW.Location = new System.Drawing.Point(525, 32);
             this.picW.Name = "picW";
-            this.picW.Size = new System.Drawing.Size(136, 162);
+            this.picW.Size = new System.Drawing.Size(188, 199);
+            this.picW.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picW.TabIndex = 15;
             this.picW.TabStop = false;
+            // 
+            // timer1
+            // 
+            this.timer1.Interval = 1000;
+            // 
+            // btnScoreBoard
+            // 
+            this.btnScoreBoard.Location = new System.Drawing.Point(525, 246);
+            this.btnScoreBoard.Name = "btnScoreBoard";
+            this.btnScoreBoard.Size = new System.Drawing.Size(185, 122);
+            this.btnScoreBoard.TabIndex = 16;
+            this.btnScoreBoard.Text = "ScoreBoard";
+            this.btnScoreBoard.UseVisualStyleBackColor = true;
+            this.btnScoreBoard.Click += new System.EventHandler(this.btnScoreBoard_Click);
             // 
             // frmThreeCard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(725, 504);
+            this.ClientSize = new System.Drawing.Size(725, 473);
+            this.Controls.Add(this.btnScoreBoard);
             this.Controls.Add(this.picW);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
@@ -211,6 +232,7 @@
             this.Controls.Add(this.picD3);
             this.Controls.Add(this.picD2);
             this.Controls.Add(this.picD1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmThreeCard";
             this.Text = "frmThreeCard";
             this.Load += new System.EventHandler(this.frmThreeCard_Load);
@@ -244,5 +266,7 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.PictureBox picW;
+        private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Button btnScoreBoard;
     }
 }

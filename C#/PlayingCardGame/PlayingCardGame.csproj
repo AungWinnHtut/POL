@@ -53,6 +53,12 @@
     <Compile Include="frmCardGame.Designer.cs">
       <DependentUpon>frmCardGame.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmScoreBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmScoreBoard.Designer.cs">
+      <DependentUpon>frmScoreBoard.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmThreeCard.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -63,6 +69,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmCardGame.resx">
       <DependentUpon>frmCardGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmScoreBoard.resx">
+      <DependentUpon>frmScoreBoard.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmThreeCard.resx">
       <DependentUpon>frmThreeCard.cs</DependentUpon>
