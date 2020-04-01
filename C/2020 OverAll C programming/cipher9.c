@@ -16,7 +16,7 @@ char CaesarDe1(char c);
 void fileRead();
 void fileEncrypt();
 
-int main()
+int main9()
 {
 	char ch[50];
 	char cipher[50];

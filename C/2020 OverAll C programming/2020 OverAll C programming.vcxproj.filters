@@ -42,5 +42,23 @@
     <ClCompile Include="cipher9.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="endian10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer11.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string12.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string13.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structure14.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structurefun15.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
