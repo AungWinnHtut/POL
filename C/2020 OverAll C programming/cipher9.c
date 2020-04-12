@@ -7,8 +7,12 @@
 */
 
 #pragma warning(disable : 4996)
+#pragma warning(disable : 28183)
+#pragma warning(disable : 6387)
 
 #include<stdio.h>
+#include<stdlib.h>
+
 //char toUpp(char c);
 //char toLow(char c);
 char CaesarEn1(char c);
@@ -206,10 +210,18 @@ void fileEncrypt()
 	}
 
 	printf("\n\n\n");
-
-	fclose(fptr);
-	fclose(fcip);
-	fclose(fpln);
+	if (fptr != NULL)
+	{
+		fclose(fptr);
+	}
+	if (fcip != NULL)
+	{
+		fclose(fcip);
+	}
+	if (fpln != NULL)
+	{ 
+		fclose(fpln);
+	}
 
 }
 

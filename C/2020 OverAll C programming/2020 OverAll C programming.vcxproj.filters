@@ -60,5 +60,19 @@
     <ClCompile Include="structurefun15.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="bitfield16.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fileio17.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fileioeg18.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="fin.txt">
+      <Filter>Source Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

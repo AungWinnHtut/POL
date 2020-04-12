@@ -1,2 +1,6 @@
-﻿  structurefun15.c
+﻿  fileioeg18.c
+D:\c\C\2020 OverAll C programming\fileioeg18.c(33,11): warning C4098: 'area4': 'void' function returning a value
+D:\c\C\2020 OverAll C programming\fileioeg18.c(46,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\c\C\2020 OverAll C programming\fileioeg18.c(77,11): warning C4098: 'area3': 'void' function returning a value
+D:\c\C\2020 OverAll C programming\fileioeg18.c(87,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   2020 OverAll C programming.vcxproj -> D:\c\C\2020 OverAll C programming\Debug\2020 OverAll C programming.exe

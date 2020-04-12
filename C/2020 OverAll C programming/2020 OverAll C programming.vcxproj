@@ -124,11 +124,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="array7.c" />
+    <ClCompile Include="bitfield16.c" />
     <ClCompile Include="cipher8.c" />
     <ClCompile Include="cipher9.c" />
     <ClCompile Include="clock1.c" />
     <ClCompile Include="delay2.c" />
     <ClCompile Include="endian10.c" />
+    <ClCompile Include="fileio17.c" />
+    <ClCompile Include="fileioeg18.c" />
     <ClCompile Include="function3.c" />
     <ClCompile Include="OverAllC4.cpp" />
     <ClCompile Include="pointer11.c" />
@@ -138,6 +141,9 @@
     <ClCompile Include="string13.c" />
     <ClCompile Include="structure14.c" />
     <ClCompile Include="structurefun15.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="fin.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

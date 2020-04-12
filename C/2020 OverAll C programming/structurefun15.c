@@ -13,7 +13,7 @@ struct Books {
 void printBook(struct Books *book);
 struct Books getBook();
 
-int main() {
+int main15() {
 
 	struct Books Book1;        /* Declare Book1 of type Book */
 	struct Books Book2;        /* Declare Book2 of type Book */
