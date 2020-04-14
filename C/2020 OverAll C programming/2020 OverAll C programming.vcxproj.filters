@@ -69,6 +69,9 @@
     <ClCompile Include="fileioeg18.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="fileio19.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="fin.txt">

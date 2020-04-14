@@ -131,6 +131,7 @@
     <ClCompile Include="delay2.c" />
     <ClCompile Include="endian10.c" />
     <ClCompile Include="fileio17.c" />
+    <ClCompile Include="fileio19.c" />
     <ClCompile Include="fileioeg18.c" />
     <ClCompile Include="function3.c" />
     <ClCompile Include="OverAllC4.cpp" />
