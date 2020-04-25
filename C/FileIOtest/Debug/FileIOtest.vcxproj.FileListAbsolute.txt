@@ -1,0 +1,2 @@
+D:\c\C\FileIOtest\Debug\FileIOtest.exe
+D:\c\C\FileIOtest\Debug\FileIOtest.pdb

@@ -1,0 +1,2 @@
+D:\c\C\readachar\Debug\readachar.exe
+D:\c\C\readachar\Debug\readachar.pdb

@@ -1,0 +1,2 @@
+D:\c\C\err_calculator\Debug\err_calculator.exe
+D:\c\C\err_calculator\Debug\err_calculator.pdb

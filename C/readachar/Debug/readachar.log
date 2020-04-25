@@ -1,0 +1,3 @@
+﻿  readachar.c
+D:\c\C\readachar\readachar.c(19,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  readachar.vcxproj -> D:\c\C\readachar\Debug\readachar.exe

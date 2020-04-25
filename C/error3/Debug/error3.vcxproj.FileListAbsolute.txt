@@ -1,0 +1,2 @@
+D:\c\C\error3\Debug\error3.exe
+D:\c\C\error3\Debug\error3.pdb
