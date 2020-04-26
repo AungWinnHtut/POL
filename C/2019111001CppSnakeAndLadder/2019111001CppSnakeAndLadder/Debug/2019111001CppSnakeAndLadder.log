@@ -1,22 +1,2 @@
-﻿Build started 11/10/2019 11:11:30 AM.
-     1>Project "D:\c\C\2019111001CppSnakeAndLadder\2019111001CppSnakeAndLadder\2019111001CppSnakeAndLadder.vcxproj" on node 2 (build target(s)).
-     1>InitializeBuildStatus:
-         Creating "Debug\2019111001CppSnakeAndLadder.unsuccessfulbuild" because "AlwaysCreate" was specified.
-       ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt SnakeAndLadder.cpp
-         SnakeAndLadder.cpp
-     1>d:\c\c\2019111001cppsnakeandladder\2019111001cppsnakeandladder\snakeandladder.cpp(39): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\c\C\2019111001CppSnakeAndLadder\Debug\2019111001CppSnakeAndLadder.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\2019111001CppSnakeAndLadder.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\c\C\2019111001CppSnakeAndLadder\Debug\2019111001CppSnakeAndLadder.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\c\C\2019111001CppSnakeAndLadder\Debug\2019111001CppSnakeAndLadder.lib" /MACHINE:X86 Debug\SnakeAndLadder.obj
-         LINK : D:\c\C\2019111001CppSnakeAndLadder\Debug\2019111001CppSnakeAndLadder.exe not found or not built by the last incremental link; performing full link
-         2019111001CppSnakeAndLadder.vcxproj -> D:\c\C\2019111001CppSnakeAndLadder\Debug\2019111001CppSnakeAndLadder.exe
-       Manifest:
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\c\C\2019111001CppSnakeAndLadder\Debug\2019111001CppSnakeAndLadder.exe;#1" /manifest Debug\2019111001CppSnakeAndLadder.exe.intermediate.manifest
-       FinalizeBuildStatus:
-         Deleting file "Debug\2019111001CppSnakeAndLadder.unsuccessfulbuild".
-         Touching "Debug\2019111001CppSnakeAndLadder.lastbuildstate".
-     1>Done Building Project "D:\c\C\2019111001CppSnakeAndLadder\2019111001CppSnakeAndLadder\2019111001CppSnakeAndLadder.vcxproj" (build target(s)).
-
-Build succeeded.
-
-Time Elapsed 00:00:00.58
+﻿  SnakeAndLadder.cpp
+  2019111001CppSnakeAndLadder.vcxproj -> D:\c\C\2019111001CppSnakeAndLadder\Debug\2019111001CppSnakeAndLadder.exe

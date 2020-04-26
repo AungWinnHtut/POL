@@ -1,142 +1,128 @@
+//Snake game value range 1-30
+//snake head and tail
+//ladder bottom and top
+//final goal (30)
 
-
-
-
-
-
-
-
-/*
-	This Program is Written By Dr. Aung Win Htut
-	Green Hackers 2020-02-18
-*/
 #include<stdio.h>
+#include<conio.h>
 #include<stdlib.h>
 #include<time.h>
-#include<conio.h>
-
-int home = 1;
-int goal = 36;
-int scount = 0;
-int lcount = 0;
-//Snakes
-int sh1 = 17;
-int st1 = 4;
-int sh2 = 20;
-int st2 = 6;
-int sh3 = 24;
-int st3 =16;
-int sh4 = 32;
-int st4 = 30;
-int sh5 = 34;
-int st5 = 12;
-
-//Ladders
-int lh1 = 15;
-int lt1 = 2;
-int lh2 = 7;
-int lt2 = 5;
-int lh3 = 27;
-int lt3 =9;
-int lh4 = 29;
-int lt4 = 18;
-int lh5 = 35;
-int lt5 = 25;
 
 int main()
 {
-	int counter =0;
-	int u1loc = home;
-	int dice =0;
-	srand(time(NULL));
-	printf("Snake and Ladder Game is Starting...\n\n");
-	while(u1loc!=36)
-	{
-		counter++;
-		dice = (rand()%6) +1;		
-		printf("dice is %d\n",dice);
-		u1loc = u1loc + dice;
-		printf("User one location is now at %d\n\n",u1loc);
+    int dice = 0;//rolling dice no.
+    int start = 1;//start point
+    int mov = 0; //movement
+    time_t t;//system time to generate random number
+    int game = 0; //game value to coniue or quick
+    int roll = 1;
+    srand((unsigned)time(&t));
+    while (start == 1)
+    {
+        printf("*******Welcome To $nake Game*******\n");
+        _getch();
+        mov = start;
+        printf("You are now at start point\n");
+        printf("Please enter 1 key to roll the dice : ");
+        scanf_s("%d", &roll);
 
-		if(u1loc==lt1) 
-		{
-			u1loc=lh1;
-			lcount++;
-			printf("Wow...Great!\nWe found a ladder!!!!\nNow User One Move to %d\n\n",u1loc);
-		}
-		else if(u1loc==lt2) 
-		{
-			u1loc=lh2;
-			lcount++;
-			printf("Wow...Great!\nWe found a ladder!!!!\nNow User One Move to %d\n\n",u1loc);
-		}
-		else if(u1loc==lt3) 
-		{
-			u1loc=lh3;
-			lcount++;
-			printf("Wow...Great!\nWe found a ladder!!!!\nNow User One Move to %d\n\n",u1loc);
-		}
-		else if(u1loc==lt4) 
-		{
-			u1loc=lh4;
-			lcount++;
-			printf("Wow...Great!\nWe found a ladder!!!!\nNow User One Move to %d\n\n",u1loc);
-		}
-		else if(u1loc==lt5) 
-		{
-			u1loc=lh5;
-			lcount++;
-			printf("Wow...Great!\nWe found a ladder!!!!\nNow User One Move to %d\n\n",u1loc);
-		}
-	
+        while (roll == 1)
+        {
 
-		if(u1loc==sh1) 
-		{
-				u1loc=st1;
-				scount++;
-				printf("Ahhh...Snake!\nIt swallow me!!!!\nNow User One Move to %d\n\n",u1loc);
-		}
-		else if(u1loc==sh2) 
-		{
-				u1loc=st2;
-				scount++;
-				printf("Ahhh...Snake!\nIt swallow me!!!!\nNow User One Move to %d\n\n",u1loc);
-		}
-		else if(u1loc==sh3) 
-		{
-				u1loc=st3;
-				scount++;
-				printf("Ahhh...Snake!\nIt swallow me!!!!\nNow User One Move to %d\n\n",u1loc);
-		}
-		else if(u1loc==sh4) 
-		{
-				u1loc=st4;
-				scount++;
-				printf("Ahhh...Snake!\nIt swallow me!!!!\nNow User One Move to %d\n\n",u1loc);
-		}
-		else if(u1loc==sh5) 
-		{
-				u1loc=st5;
-				scount++;
-				printf("Ahhh...Snake!\nIt swallow me!!!!\nNow User One Move to %d\n\n",u1loc);
-		}
-		if(u1loc>36) 
-		{		
-			u1loc=goal-(dice-(goal-u1loc));
-			printf("Ohhh... you reach over home, please come back to new loc %d\n\n",u1loc);
-		}
-	}
+            dice = rand() % 5 + 1;
+            printf("The number of dice : %d\n", dice);
+            _getch();
+            mov = dice + mov;
+            printf("Your location is : %d\n", mov);
+            _getch();
 
-	
+            if ((mov == 3) || (mov == 5) || (mov == 11) || (mov == 20))
+            {
+                switch (mov)
+                {
+                case 3:
+                    mov = 22;
+                    printf("3 used ladder and now at %d\n", mov);
+                    _getch();
+                    break;
+                case 5:
+                    mov = 8;
+                    printf("5 used ladder and now at %d\n", mov);
+                    _getch();
+                    break;
+                case 11:
+                    mov = 26;
+                    printf("11 used ladder and now at %d\n", mov);
+                    _getch();
+                    break;
+                case 20:
+                    mov = 29;
+                    printf("20 used ladder and now at %d\n", mov);
+                    _getch();
+                    break;
 
-	printf("Victory!!!\n");
-	printf("You climb ladder %d times\n",lcount);
-	printf("You bite by snake %d times\n",scount);
-	printf("Total number of rolling dice %d\n\n",counter);
-	printf("Thank you for playing\n");
-	printf("******************");
-	_getch();
-	return 0;
+                }
+            }
+            else if ((mov == 17) || (mov == 19) || (mov == 21) || (mov == 27))
+            {
+                switch (mov)
+                {
+                case 17:
+                    mov = 4;
+                    printf("17 ate by snake and now at %d\n", mov);
+                    _getch();
+                    break;
+                case 19:
+                    mov = 7;
+                    printf("19 ate by snake and now at %d\n", mov);
+                    _getch();
+                    break;
+                case 21:
+                    mov = 9;
+                    printf("21 ate by snake and now at %d\n", mov);
+                    _getch();
+                    break;
+                case 27:
+                    mov = 1;
+                    printf("27 ate by snake and now at %d\n", mov);
+                    _getch();
+                    break;
+                }
+            }
+            else if (mov > 30)
+            {
+                printf("You are over the goal : %d\n", mov);
+                _getch();
+                mov = 30 - (mov - 30);//to move back as the value of over 30
+                printf("You've been moved back to : %d\n", mov);
+                _getch();
+            }
+            else if (mov == 30)
+            {
+                printf("*****Congratulations! You are winner*****\n");
+                printf("If you want to play again press 1 or end  press 0 : \n");
+                scanf_s("%d", &game);
+                if (game == 1)
+                {
+                    printf("You can enjoy again!\n");
+                    mov = start;
+                    system("cls");
+                    _getch();
+                }
+
+                else if (game == 0)
+                {
+                    printf("Thank you for playing\n");
+                    printf("HAVE A GOOD DAY! BYE!!!\n ");
+                    _getch();
+                    exit(0);
+                }
+
+            }
+
+        } /*while(mov!=30);
+        printf("*****Congratulations! You are winner*****\n");
+            _getch();*/
+    }
+    return 0;
 }
-//goal-(dice-(goal-u1loc))
-
