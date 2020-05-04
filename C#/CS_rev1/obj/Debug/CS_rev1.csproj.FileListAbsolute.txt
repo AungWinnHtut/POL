@@ -1,0 +1,10 @@
+D:\c\C#\CS_rev1\bin\Debug\CS_rev1.exe.config
+D:\c\C#\CS_rev1\bin\Debug\CS_rev1.exe
+D:\c\C#\CS_rev1\bin\Debug\CS_rev1.pdb
+D:\c\C#\CS_rev1\obj\Debug\CS_rev1.csprojAssemblyReference.cache
+D:\c\C#\CS_rev1\obj\Debug\CS_rev1.frmTest1.resources
+D:\c\C#\CS_rev1\obj\Debug\CS_rev1.Properties.Resources.resources
+D:\c\C#\CS_rev1\obj\Debug\CS_rev1.csproj.GenerateResource.cache
+D:\c\C#\CS_rev1\obj\Debug\CS_rev1.csproj.CoreCompileInputs.cache
+D:\c\C#\CS_rev1\obj\Debug\CS_rev1.exe
+D:\c\C#\CS_rev1\obj\Debug\CS_rev1.pdb

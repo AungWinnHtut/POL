@@ -1,0 +1,3 @@
+﻿  err5.c
+D:\c\C#\err5\err5.c(54,8): warning C4013: '_getch' undefined; assuming extern returning int
+  err5.vcxproj -> D:\c\C#\err5\Debug\err5.exe

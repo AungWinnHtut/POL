@@ -1,0 +1,2 @@
+C:\Users\Dr.Aung Win Htut\source\repos\c_pattern\Debug\c_pattern.exe
+C:\Users\Dr.Aung Win Htut\source\repos\c_pattern\Debug\c_pattern.pdb

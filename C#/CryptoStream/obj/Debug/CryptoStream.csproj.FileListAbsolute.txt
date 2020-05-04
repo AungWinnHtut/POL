@@ -1,0 +1,5 @@
+D:\c\C#\CryptoStream\obj\Debug\CryptoStream.csprojAssemblyReference.cache
+D:\c\C#\CryptoStream\obj\Debug\CryptoStream.Form1.resources
+D:\c\C#\CryptoStream\obj\Debug\CryptoStream.Properties.Resources.resources
+D:\c\C#\CryptoStream\obj\Debug\CryptoStream.csproj.GenerateResource.cache
+D:\c\C#\CryptoStream\obj\Debug\CryptoStream.csproj.CoreCompileInputs.cache

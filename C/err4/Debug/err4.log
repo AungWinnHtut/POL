@@ -1,0 +1,4 @@
+﻿  err4.c
+C:\Users\Dr.Aung Win Htut\source\repos\err4\err4.c(23,12): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Dr.Aung Win Htut\source\repos\err4\err4.c(23,12): warning C4476: 'printf' : unknown type field character 'b' in format specifier
+  err4.vcxproj -> C:\Users\Dr.Aung Win Htut\source\repos\err4\Debug\err4.exe

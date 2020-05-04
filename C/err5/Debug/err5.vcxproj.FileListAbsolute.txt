@@ -1,0 +1,2 @@
+D:\c\C#\err5\Debug\err5.exe
+D:\c\C#\err5\Debug\err5.pdb

@@ -1,2 +1,2 @@
-for visual studio 2019 and above , install and use mysql-connector-net-XXX.msi
-for old version of visual studio, use MySql.Data.DLL from browse
+visual studio 2019 နဲ႔ အထက္ဆိုရင္ mysql-connector-net-XXX.msi ကို install လုပ္သံုးပါ
+က်န္တဲ႔ visual studio version အေဟာင္းေတြဆို MySql.Data.DLL ကို ယူသံုးပါ။ သံုးနည္း အေသးစိတ္ကုိ PDF မွာ ၾကည္႔ပါ။
