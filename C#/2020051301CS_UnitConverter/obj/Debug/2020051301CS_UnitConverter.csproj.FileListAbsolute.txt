@@ -1,0 +1,12 @@
+D:\c\C#\2020051301CS_UnitConverter\bin\Debug\2020051201CS_UI.exe.config
+D:\c\C#\2020051301CS_UnitConverter\bin\Debug\2020051201CS_UI.exe
+D:\c\C#\2020051301CS_UnitConverter\bin\Debug\2020051201CS_UI.pdb
+D:\c\C#\2020051301CS_UnitConverter\obj\Debug\_2020051201CS_UI.frmFileOpen.resources
+D:\c\C#\2020051301CS_UnitConverter\obj\Debug\_2020051201CS_UI.frmUi.resources
+D:\c\C#\2020051301CS_UnitConverter\obj\Debug\_2020051201CS_UI.Properties.Resources.resources
+D:\c\C#\2020051301CS_UnitConverter\obj\Debug\2020051301CS_UnitConverter.csproj.GenerateResource.cache
+D:\c\C#\2020051301CS_UnitConverter\obj\Debug\2020051301CS_UnitConverter.csproj.CoreCompileInputs.cache
+D:\c\C#\2020051301CS_UnitConverter\obj\Debug\2020051201CS_UI.exe
+D:\c\C#\2020051301CS_UnitConverter\obj\Debug\2020051201CS_UI.pdb
+D:\c\C#\2020051301CS_UnitConverter\obj\Debug\_2020051201CS_UI.frmConverter.resources
+D:\c\C#\2020051301CS_UnitConverter\obj\Debug\2020051301CS_UnitConverter.csprojAssemblyReference.cache

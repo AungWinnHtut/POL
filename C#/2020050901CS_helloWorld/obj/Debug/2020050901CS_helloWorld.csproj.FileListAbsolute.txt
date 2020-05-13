@@ -1,0 +1,11 @@
+D:\c\C#\2020050901CS_helloWorld\bin\Debug\2020050901CS_helloWorld.exe.config
+D:\c\C#\2020050901CS_helloWorld\bin\Debug\2020050901CS_helloWorld.exe
+D:\c\C#\2020050901CS_helloWorld\bin\Debug\2020050901CS_helloWorld.pdb
+D:\c\C#\2020050901CS_helloWorld\obj\Debug\2020050901CS_helloWorld.csprojAssemblyReference.cache
+D:\c\C#\2020050901CS_helloWorld\obj\Debug\_2020050901CS_helloWorld.frmHelloWorld.resources
+D:\c\C#\2020050901CS_helloWorld\obj\Debug\_2020050901CS_helloWorld.Properties.Resources.resources
+D:\c\C#\2020050901CS_helloWorld\obj\Debug\2020050901CS_helloWorld.csproj.GenerateResource.cache
+D:\c\C#\2020050901CS_helloWorld\obj\Debug\2020050901CS_helloWorld.csproj.CoreCompileInputs.cache
+D:\c\C#\2020050901CS_helloWorld\obj\Debug\2020050901CS_helloWorld.exe
+D:\c\C#\2020050901CS_helloWorld\obj\Debug\2020050901CS_helloWorld.pdb
+D:\c\C#\2020050901CS_helloWorld\obj\Debug\_2020050901CS_helloWorld.frmSecret.resources

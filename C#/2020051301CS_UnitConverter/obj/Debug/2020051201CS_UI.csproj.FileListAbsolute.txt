@@ -1,0 +1,11 @@
+D:\c\C#\2020051201CS_UI\bin\Debug\2020051201CS_UI.exe.config
+D:\c\C#\2020051201CS_UI\bin\Debug\2020051201CS_UI.exe
+D:\c\C#\2020051201CS_UI\bin\Debug\2020051201CS_UI.pdb
+D:\c\C#\2020051201CS_UI\obj\Debug\2020051201CS_UI.csprojAssemblyReference.cache
+D:\c\C#\2020051201CS_UI\obj\Debug\_2020051201CS_UI.frmUi.resources
+D:\c\C#\2020051201CS_UI\obj\Debug\_2020051201CS_UI.Properties.Resources.resources
+D:\c\C#\2020051201CS_UI\obj\Debug\2020051201CS_UI.csproj.GenerateResource.cache
+D:\c\C#\2020051201CS_UI\obj\Debug\2020051201CS_UI.csproj.CoreCompileInputs.cache
+D:\c\C#\2020051201CS_UI\obj\Debug\2020051201CS_UI.exe
+D:\c\C#\2020051201CS_UI\obj\Debug\2020051201CS_UI.pdb
+D:\c\C#\2020051201CS_UI\obj\Debug\_2020051201CS_UI.frmFileOpen.resources

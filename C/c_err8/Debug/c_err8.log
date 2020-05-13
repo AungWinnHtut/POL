@@ -1,0 +1,3 @@
+﻿  err8.c
+D:\c\C\c_err8\err8.c(16,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  c_err8.vcxproj -> D:\c\C\c_err8\Debug\c_err8.exe
