@@ -1,0 +1,2 @@
+D:\c\C\err_7\Debug\err_7.exe
+D:\c\C\err_7\Debug\err_7.pdb
