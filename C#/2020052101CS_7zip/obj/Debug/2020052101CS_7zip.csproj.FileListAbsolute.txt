@@ -1,0 +1,10 @@
+D:\c\C#\2020052101CS_7zip\bin\Debug\2020052101CS_7zip.exe.config
+D:\c\C#\2020052101CS_7zip\bin\Debug\2020052101CS_7zip.exe
+D:\c\C#\2020052101CS_7zip\bin\Debug\2020052101CS_7zip.pdb
+D:\c\C#\2020052101CS_7zip\obj\Debug\2020052101CS_7zip.csprojAssemblyReference.cache
+D:\c\C#\2020052101CS_7zip\obj\Debug\_2020052101CS_7zip.frm7zip.resources
+D:\c\C#\2020052101CS_7zip\obj\Debug\_2020052101CS_7zip.Properties.Resources.resources
+D:\c\C#\2020052101CS_7zip\obj\Debug\2020052101CS_7zip.csproj.GenerateResource.cache
+D:\c\C#\2020052101CS_7zip\obj\Debug\2020052101CS_7zip.csproj.CoreCompileInputs.cache
+D:\c\C#\2020052101CS_7zip\obj\Debug\2020052101CS_7zip.exe
+D:\c\C#\2020052101CS_7zip\obj\Debug\2020052101CS_7zip.pdb

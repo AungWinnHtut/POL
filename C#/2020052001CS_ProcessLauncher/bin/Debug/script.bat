@@ -1,0 +1,1 @@
+dir d:\*.txt > d:\text.txt

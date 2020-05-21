@@ -1,0 +1,13 @@
+ Volume in drive D is FastBuffer
+ Volume Serial Number is 1AE5-3580
+
+ Directory of D:\c\C#\2020052101CS_7zip\bin\Debug
+
+05/21/2020  01:23 PM    <DIR>          .
+05/21/2020  01:23 PM    <DIR>          ..
+05/21/2020  01:18 PM    <DIR>          7z1900-extra
+05/21/2020  01:16 PM           929,117 7z1900-extra.7z
+02/21/2019  10:30 PM           739,840 7za.exe
+05/21/2020  01:23 PM                 0 dir.txt
+               3 File(s)      1,668,957 bytes
+               3 Dir(s)  70,939,701,248 bytes free

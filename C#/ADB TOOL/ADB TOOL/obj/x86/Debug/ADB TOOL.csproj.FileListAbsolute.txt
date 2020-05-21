@@ -1,0 +1,17 @@
+E:\Programing Video\My Lesson\ADB TOOL\ADB TOOL\bin\Debug\ADB TOOL.exe
+E:\Programing Video\My Lesson\ADB TOOL\ADB TOOL\bin\Debug\ADB TOOL.pdb
+E:\Programing Video\My Lesson\ADB TOOL\ADB TOOL\obj\x86\Debug\ADB_TOOL.Form1.resources
+E:\Programing Video\My Lesson\ADB TOOL\ADB TOOL\obj\x86\Debug\ADB_TOOL.Properties.Resources.resources
+E:\Programing Video\My Lesson\ADB TOOL\ADB TOOL\obj\x86\Debug\ADB TOOL.csproj.GenerateResource.Cache
+E:\Programing Video\My Lesson\ADB TOOL\ADB TOOL\obj\x86\Debug\ADB TOOL.exe
+E:\Programing Video\My Lesson\ADB TOOL\ADB TOOL\obj\x86\Debug\ADB TOOL.pdb
+E:\Programing Video\My Lesson\ADB TOOL\ADB TOOL\obj\x86\Debug\ADB TOOL.csprojResolveAssemblyReference.cache
+D:\Important Programing Video\My Lesson\ADB TOOL\ADB TOOL\bin\Debug\ADB TOOL.exe
+D:\Important Programing Video\My Lesson\ADB TOOL\ADB TOOL\bin\Debug\ADB TOOL.pdb
+D:\Important Programing Video\My Lesson\ADB TOOL\ADB TOOL\obj\x86\Debug\ADB TOOL.csprojAssemblyReference.cache
+D:\Important Programing Video\My Lesson\ADB TOOL\ADB TOOL\obj\x86\Debug\ADB_TOOL.Form1.resources
+D:\Important Programing Video\My Lesson\ADB TOOL\ADB TOOL\obj\x86\Debug\ADB_TOOL.Properties.Resources.resources
+D:\Important Programing Video\My Lesson\ADB TOOL\ADB TOOL\obj\x86\Debug\ADB TOOL.csproj.GenerateResource.cache
+D:\Important Programing Video\My Lesson\ADB TOOL\ADB TOOL\obj\x86\Debug\ADB TOOL.csproj.CoreCompileInputs.cache
+D:\Important Programing Video\My Lesson\ADB TOOL\ADB TOOL\obj\x86\Debug\ADB TOOL.exe
+D:\Important Programing Video\My Lesson\ADB TOOL\ADB TOOL\obj\x86\Debug\ADB TOOL.pdb

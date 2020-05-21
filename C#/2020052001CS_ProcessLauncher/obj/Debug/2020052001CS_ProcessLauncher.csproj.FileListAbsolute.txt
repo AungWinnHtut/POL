@@ -1,0 +1,10 @@
+D:\c\C#\2020052001CS_ProcessLauncher\bin\Debug\2020052001CS_ProcessLauncher.exe.config
+D:\c\C#\2020052001CS_ProcessLauncher\bin\Debug\2020052001CS_ProcessLauncher.exe
+D:\c\C#\2020052001CS_ProcessLauncher\bin\Debug\2020052001CS_ProcessLauncher.pdb
+D:\c\C#\2020052001CS_ProcessLauncher\obj\Debug\2020052001CS_ProcessLauncher.csprojAssemblyReference.cache
+D:\c\C#\2020052001CS_ProcessLauncher\obj\Debug\_2020052001CS_ProcessLauncher.AppLaucher.resources
+D:\c\C#\2020052001CS_ProcessLauncher\obj\Debug\_2020052001CS_ProcessLauncher.Properties.Resources.resources
+D:\c\C#\2020052001CS_ProcessLauncher\obj\Debug\2020052001CS_ProcessLauncher.csproj.GenerateResource.cache
+D:\c\C#\2020052001CS_ProcessLauncher\obj\Debug\2020052001CS_ProcessLauncher.csproj.CoreCompileInputs.cache
+D:\c\C#\2020052001CS_ProcessLauncher\obj\Debug\2020052001CS_ProcessLauncher.exe
+D:\c\C#\2020052001CS_ProcessLauncher\obj\Debug\2020052001CS_ProcessLauncher.pdb

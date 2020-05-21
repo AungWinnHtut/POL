@@ -1,0 +1,75 @@
+
+Host Name:                 DESKTOP-QH2UCDL
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.18362 N/A Build 18362
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Windows User
+Registered Organization:   
+Product ID:                00331-10000-00001-AA836
+Original Install Date:     8/29/2019, 9:53:40 PM
+System Boot Time:          5/21/2020, 8:43:35 AM
+System Manufacturer:       ASUS
+System Model:              All Series
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 60 Stepping 3 GenuineIntel ~3201 Mhz
+BIOS Version:              American Megatrends Inc. 2405, 4/7/2015
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+06:30) Yangon (Rangoon)
+Total Physical Memory:     16,258 MB
+Available Physical Memory: 7,008 MB
+Virtual Memory: Max Size:  23,682 MB
+Virtual Memory: Available: 9,548 MB
+Virtual Memory: In Use:    14,134 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-QH2UCDL
+Hotfix(s):                 15 Hotfix(s) Installed.
+                           [01]: KB4552931
+                           [02]: KB4503308
+                           [03]: KB4515383
+                           [04]: KB4515530
+                           [05]: KB4516115
+                           [06]: KB4520390
+                           [07]: KB4521863
+                           [08]: KB4524244
+                           [09]: KB4524569
+                           [10]: KB4528759
+                           [11]: KB4537759
+                           [12]: KB4538674
+                           [13]: KB4541338
+                           [14]: KB4552152
+                           [15]: KB4556799
+Network Card(s):           6 NIC(s) Installed.
+                           [01]: Kaspersky Security Data Escort Adapter
+                                 Connection Name: Ethernet 2
+                                 Status:          Media disconnected
+                           [02]: Intel(R) Ethernet Connection (2) I218-V
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.0.1
+                                 IP address(es)
+                                 [01]: 192.168.0.192
+                                 [02]: fe80::59e0:adb0:2d59:d998
+                           [03]: Microsoft KM-TEST Loopback Adapter
+                                 Connection Name: Npcap Loopback Adapter
+                                 Status:          Hardware not present
+                           [04]: Kaspersky Security Data Escort Adapter
+                                 Connection Name: Ethernet 5
+                                 Status:          Media disconnected
+                           [05]: Hyper-V Virtual Ethernet Adapter
+                                 Connection Name: vEthernet (Default Switch)
+                                 Status:          Hardware not present
+                           [06]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network
+                                 Status:          Hardware not present
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
