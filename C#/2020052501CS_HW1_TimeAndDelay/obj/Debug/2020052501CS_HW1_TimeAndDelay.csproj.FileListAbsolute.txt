@@ -1,0 +1,10 @@
+C:\Users\Dr.Aung Win Htut\source\repos\2020052501CS_HW1_TimeAndDelay\bin\Debug\2020052501CS_HW1_TimeAndDelay.exe.config
+C:\Users\Dr.Aung Win Htut\source\repos\2020052501CS_HW1_TimeAndDelay\bin\Debug\2020052501CS_HW1_TimeAndDelay.exe
+C:\Users\Dr.Aung Win Htut\source\repos\2020052501CS_HW1_TimeAndDelay\bin\Debug\2020052501CS_HW1_TimeAndDelay.pdb
+C:\Users\Dr.Aung Win Htut\source\repos\2020052501CS_HW1_TimeAndDelay\obj\Debug\_2020052501CS_HW1_TimeAndDelay.frmTimeAndDelay.resources
+C:\Users\Dr.Aung Win Htut\source\repos\2020052501CS_HW1_TimeAndDelay\obj\Debug\_2020052501CS_HW1_TimeAndDelay.Properties.Resources.resources
+C:\Users\Dr.Aung Win Htut\source\repos\2020052501CS_HW1_TimeAndDelay\obj\Debug\2020052501CS_HW1_TimeAndDelay.csproj.GenerateResource.cache
+C:\Users\Dr.Aung Win Htut\source\repos\2020052501CS_HW1_TimeAndDelay\obj\Debug\2020052501CS_HW1_TimeAndDelay.csproj.CoreCompileInputs.cache
+C:\Users\Dr.Aung Win Htut\source\repos\2020052501CS_HW1_TimeAndDelay\obj\Debug\2020052501CS_HW1_TimeAndDelay.exe
+C:\Users\Dr.Aung Win Htut\source\repos\2020052501CS_HW1_TimeAndDelay\obj\Debug\2020052501CS_HW1_TimeAndDelay.pdb
+C:\Users\Dr.Aung Win Htut\source\repos\2020052501CS_HW1_TimeAndDelay\obj\Debug\2020052501CS_HW1_TimeAndDelay.csprojAssemblyReference.cache

@@ -1,0 +1,2 @@
+D:\c\C\err10\Debug\err10.exe
+D:\c\C\err10\Debug\err10.pdb

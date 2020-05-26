@@ -1,0 +1,7 @@
+D:\c\C#\2020052201CS_Console1\bin\Debug\2020052201CS_Console1.exe.config
+D:\c\C#\2020052201CS_Console1\bin\Debug\2020052201CS_Console1.exe
+D:\c\C#\2020052201CS_Console1\bin\Debug\2020052201CS_Console1.pdb
+D:\c\C#\2020052201CS_Console1\obj\Debug\2020052201CS_Console1.csprojAssemblyReference.cache
+D:\c\C#\2020052201CS_Console1\obj\Debug\2020052201CS_Console1.csproj.CoreCompileInputs.cache
+D:\c\C#\2020052201CS_Console1\obj\Debug\2020052201CS_Console1.exe
+D:\c\C#\2020052201CS_Console1\obj\Debug\2020052201CS_Console1.pdb

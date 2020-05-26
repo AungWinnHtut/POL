@@ -1,0 +1,11 @@
+D:\c\C#\2020052601CS_HW2_TimeAndDelay\bin\Debug\2020052501CS_HW1_TimeAndDelay.exe.config
+D:\c\C#\2020052601CS_HW2_TimeAndDelay\bin\Debug\2020052501CS_HW1_TimeAndDelay.exe
+D:\c\C#\2020052601CS_HW2_TimeAndDelay\bin\Debug\2020052501CS_HW1_TimeAndDelay.pdb
+D:\c\C#\2020052601CS_HW2_TimeAndDelay\obj\Debug\2020052601CS_HW2_TimeAndDelay.csprojAssemblyReference.cache
+D:\c\C#\2020052601CS_HW2_TimeAndDelay\obj\Debug\_2020052501CS_HW1_TimeAndDelay.frmMsgBox.resources
+D:\c\C#\2020052601CS_HW2_TimeAndDelay\obj\Debug\_2020052501CS_HW1_TimeAndDelay.frmTimeAndDelay.resources
+D:\c\C#\2020052601CS_HW2_TimeAndDelay\obj\Debug\_2020052501CS_HW1_TimeAndDelay.Properties.Resources.resources
+D:\c\C#\2020052601CS_HW2_TimeAndDelay\obj\Debug\2020052601CS_HW2_TimeAndDelay.csproj.GenerateResource.cache
+D:\c\C#\2020052601CS_HW2_TimeAndDelay\obj\Debug\2020052601CS_HW2_TimeAndDelay.csproj.CoreCompileInputs.cache
+D:\c\C#\2020052601CS_HW2_TimeAndDelay\obj\Debug\2020052501CS_HW1_TimeAndDelay.exe
+D:\c\C#\2020052601CS_HW2_TimeAndDelay\obj\Debug\2020052501CS_HW1_TimeAndDelay.pdb
