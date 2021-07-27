@@ -19,7 +19,8 @@ namespace _2020052801HGCS_1_HelloWorld
 
         private void btnHello_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello World!","Green Hackers",MessageBoxButtons.YesNoCancel);
+            //MessageBox.Show("Hello World!","Green Hackers",MessageBoxButtons.YesNoCancel);
+            this.Text = "I am a Student!";
         }
     }
 }

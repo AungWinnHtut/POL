@@ -46,16 +46,43 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmBrowser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBrowser.Designer.cs">
+      <DependentUpon>frmBrowser.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmHello.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmHello.Designer.cs">
       <DependentUpon>frmHello.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmPhoto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPhoto.Designer.cs">
+      <DependentUpon>frmPhoto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVideo.Designer.cs">
+      <DependentUpon>frmVideo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmBrowser.resx">
+      <DependentUpon>frmBrowser.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmHello.resx">
       <DependentUpon>frmHello.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPhoto.resx">
+      <DependentUpon>frmPhoto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVideo.resx">
+      <DependentUpon>frmVideo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -78,6 +105,25 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

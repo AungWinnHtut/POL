@@ -166,6 +166,11 @@ namespace WindowsFormsApp5
             //    }
         }
 
+        private void dgvStuData_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
         private void btnExport_Click(object sender, EventArgs e)
         {
             try

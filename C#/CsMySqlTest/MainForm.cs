@@ -124,5 +124,10 @@ namespace WindowsFormsApp5
             frmStudentRegister frmstudentregister = new frmStudentRegister();
             frmstudentregister.Show();
         }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -57,6 +57,7 @@
             this.dgvStuData.Size = new System.Drawing.Size(974, 233);
             this.dgvStuData.TabIndex = 0;
             this.dgvStuData.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvStuData_CellClick);
+            this.dgvStuData.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvStuData_CellContentClick);
             this.dgvStuData.CellMouseUp += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dgvStuData_CellMouseUp);
             // 
             // groupBox1
@@ -115,14 +116,14 @@
             this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripMenuItem1});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(135, 36);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(140, 40);
             this.contextMenuStrip1.Opening += new System.ComponentModel.CancelEventHandler(this.contextMenuStrip1_Opening);
             this.contextMenuStrip1.Click += new System.EventHandler(this.contextMenuStrip1_Click);
             // 
             // toolStripMenuItem1
             // 
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(134, 32);
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(139, 36);
             this.toolStripMenuItem1.Text = "Delete";
             // 
             // btnExport

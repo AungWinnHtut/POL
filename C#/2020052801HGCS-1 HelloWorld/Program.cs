@@ -16,7 +16,7 @@ namespace _2020052801HGCS_1_HelloWorld
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmHello());
+            Application.Run(new frmBrowser());
         }
     }
 }

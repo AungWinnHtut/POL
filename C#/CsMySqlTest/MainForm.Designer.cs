@@ -148,7 +148,7 @@
             this.dataBaseToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 33);
+            this.menuStrip1.Size = new System.Drawing.Size(800, 38);
             this.menuStrip1.TabIndex = 10;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -159,27 +159,27 @@
             this.browserToolStripMenuItem,
             this.loginToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
-            this.fileToolStripMenuItem.Size = new System.Drawing.Size(54, 29);
+            this.fileToolStripMenuItem.Size = new System.Drawing.Size(57, 34);
             this.fileToolStripMenuItem.Text = "File";
             // 
             // cipherToolStripMenuItem
             // 
             this.cipherToolStripMenuItem.Name = "cipherToolStripMenuItem";
-            this.cipherToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.cipherToolStripMenuItem.Size = new System.Drawing.Size(183, 38);
             this.cipherToolStripMenuItem.Text = "Cipher";
             this.cipherToolStripMenuItem.Click += new System.EventHandler(this.cipherToolStripMenuItem_Click);
             // 
             // browserToolStripMenuItem
             // 
             this.browserToolStripMenuItem.Name = "browserToolStripMenuItem";
-            this.browserToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.browserToolStripMenuItem.Size = new System.Drawing.Size(183, 38);
             this.browserToolStripMenuItem.Text = "Browser";
             this.browserToolStripMenuItem.Click += new System.EventHandler(this.browserToolStripMenuItem_Click);
             // 
             // loginToolStripMenuItem
             // 
             this.loginToolStripMenuItem.Name = "loginToolStripMenuItem";
-            this.loginToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.loginToolStripMenuItem.Size = new System.Drawing.Size(183, 38);
             this.loginToolStripMenuItem.Text = "Login";
             this.loginToolStripMenuItem.Click += new System.EventHandler(this.loginToolStripMenuItem_Click);
             // 
@@ -190,27 +190,27 @@
             this.showAllToolStripMenuItem,
             this.studentRegisterToolStripMenuItem});
             this.dataBaseToolStripMenuItem.Name = "dataBaseToolStripMenuItem";
-            this.dataBaseToolStripMenuItem.Size = new System.Drawing.Size(101, 29);
+            this.dataBaseToolStripMenuItem.Size = new System.Drawing.Size(107, 34);
             this.dataBaseToolStripMenuItem.Text = "DataBase";
             // 
             // searchByTitleToolStripMenuItem
             // 
             this.searchByTitleToolStripMenuItem.Name = "searchByTitleToolStripMenuItem";
-            this.searchByTitleToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.searchByTitleToolStripMenuItem.Size = new System.Drawing.Size(256, 38);
             this.searchByTitleToolStripMenuItem.Text = "Search by title";
             this.searchByTitleToolStripMenuItem.Click += new System.EventHandler(this.searchByTitleToolStripMenuItem_Click);
             // 
             // showAllToolStripMenuItem
             // 
             this.showAllToolStripMenuItem.Name = "showAllToolStripMenuItem";
-            this.showAllToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.showAllToolStripMenuItem.Size = new System.Drawing.Size(256, 38);
             this.showAllToolStripMenuItem.Text = "Show All";
             this.showAllToolStripMenuItem.Click += new System.EventHandler(this.showAllToolStripMenuItem_Click);
             // 
             // studentRegisterToolStripMenuItem
             // 
             this.studentRegisterToolStripMenuItem.Name = "studentRegisterToolStripMenuItem";
-            this.studentRegisterToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.studentRegisterToolStripMenuItem.Size = new System.Drawing.Size(256, 38);
             this.studentRegisterToolStripMenuItem.Text = "Student Register";
             this.studentRegisterToolStripMenuItem.Click += new System.EventHandler(this.studentRegisterToolStripMenuItem_Click);
             // 
@@ -233,6 +233,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "MainForm";
             this.Text = "Connect DB";
+            this.Load += new System.EventHandler(this.MainForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

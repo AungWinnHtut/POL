@@ -1,0 +1,7 @@
+ec2-18-189-145-191.us-east-2.compute.amazonaws.com
+18.189.145.191
+172.31.8.209
+ubuntu
+mysql uname: root
+mysql password: 1234
+

@@ -1,10 +1,18 @@
 D:\c\C#\2020052801HGCS-1 HelloWorld\bin\Debug\2020052801HGCS-1 HelloWorld.exe.config
 D:\c\C#\2020052801HGCS-1 HelloWorld\bin\Debug\2020052801HGCS-1 HelloWorld.exe
 D:\c\C#\2020052801HGCS-1 HelloWorld\bin\Debug\2020052801HGCS-1 HelloWorld.pdb
-D:\c\C#\2020052801HGCS-1 HelloWorld\obj\Debug\2020052801HGCS-1 HelloWorld.csprojAssemblyReference.cache
 D:\c\C#\2020052801HGCS-1 HelloWorld\obj\Debug\_2020052801HGCS_1_HelloWorld.frmHello.resources
 D:\c\C#\2020052801HGCS-1 HelloWorld\obj\Debug\_2020052801HGCS_1_HelloWorld.Properties.Resources.resources
 D:\c\C#\2020052801HGCS-1 HelloWorld\obj\Debug\2020052801HGCS-1 HelloWorld.csproj.GenerateResource.cache
 D:\c\C#\2020052801HGCS-1 HelloWorld\obj\Debug\2020052801HGCS-1 HelloWorld.csproj.CoreCompileInputs.cache
 D:\c\C#\2020052801HGCS-1 HelloWorld\obj\Debug\2020052801HGCS-1 HelloWorld.exe
 D:\c\C#\2020052801HGCS-1 HelloWorld\obj\Debug\2020052801HGCS-1 HelloWorld.pdb
+D:\c\C#\2020052801HGCS-1 HelloWorld\obj\Debug\_2020052801HGCS_1_HelloWorld.frmPhoto.resources
+D:\c\C#\2020052801HGCS-1 HelloWorld\bin\Debug\Interop.WMPLib.dll
+D:\c\C#\2020052801HGCS-1 HelloWorld\bin\Debug\AxInterop.WMPLib.dll
+D:\c\C#\2020052801HGCS-1 HelloWorld\obj\Debug\Interop.WMPLib.dll
+D:\c\C#\2020052801HGCS-1 HelloWorld\obj\Debug\AxInterop.WMPLib.dll
+D:\c\C#\2020052801HGCS-1 HelloWorld\obj\Debug\2020052801HGCS-1 HelloWorld.csproj.ResolveComReference.cache
+D:\c\C#\2020052801HGCS-1 HelloWorld\obj\Debug\_2020052801HGCS_1_HelloWorld.frmVideo.resources
+D:\c\C#\2020052801HGCS-1 HelloWorld\obj\Debug\_2020052801HGCS_1_HelloWorld.frmBrowser.resources
+D:\c\C#\2020052801HGCS-1 HelloWorld\obj\Debug\2020052801HGCS-1 HelloWorld.csprojAssemblyReference.cache

@@ -1,9 +1,10 @@
 #!/usr/bin/python
 #pip3 install mysqlclient
+#import mysql.connector
 import MySQLdb
 
 # Open database connection
-db = MySQLdb.connect("localhost","root","","student" )
+db = MySQLdb.connect("localhost","root","","test" )
 
 # prepare a cursor object using cursor() method
 cursor = db.cursor()
